@@ -12,14 +12,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Set up Go 1.15
-      uses: actions/setup-go@v1
+    - name: Set up Go
+      uses: actions/setup-go@v2
       with:
         go-version: 1.15
-      id: go
 
-    - name: Check out code into the Go module directory
-      uses: actions/checkout@v1
+    - name: Check out code
+      uses: actions/checkout@v2
 
     - name: Test
       run: go test -v
+
+  update:
+    name: Update embedded DB
+    if: ${{ failure() }}
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.15
+
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Generate DB
+      run: go run cmd/generatedb/generatedb.go
+
+    - name: Commit updated DB
+      uses: EndBug/add-and-commit@v4
+      with:
+        author_name: Nomadic
+        author_email: nomadic.ua@gmail.com
+        message: "Update embedded DB"
+        add: "embedb.go"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

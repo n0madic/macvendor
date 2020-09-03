@@ -2,7 +2,7 @@
 
 Go library with embedded DB for getting MAC address vendor information.
 
-Source datadabe from [macaddress.io](https://macaddress.io/database-download).
+Source database from [macaddress.io](https://macaddress.io/database-download).
 
 ## Installation
 

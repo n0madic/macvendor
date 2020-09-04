@@ -25,6 +25,7 @@ jobs:
 
   update:
     name: Update embedded DB
+    needs: test
     if: ${{ failure() }}
     runs-on: ubuntu-latest
     steps:

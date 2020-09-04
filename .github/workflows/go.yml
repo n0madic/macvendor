@@ -38,6 +38,8 @@ jobs:
     - name: Check out code
       uses: actions/checkout@v2
 
+    - name: Get package
+      run: go get github.com/n0madic/macvendor
     - name: Generate DB
       run: go run cmd/generatedb/generatedb.go
 

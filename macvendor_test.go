@@ -1,7 +1,9 @@
 package macvendor
 
 import (
+	"net"
 	"reflect"
+	"strings"
 	"testing"
 )
 
@@ -59,5 +61,29 @@ func TestLookup(t *testing.T) {
 				t.Errorf("Lookup() = %v, want %v", got, tt.want)
 			}
 		})
+	}
+}
+
+func BenchmarkLoop(b *testing.B) {
+	addr, err := net.ParseMAC("A4:81:EE:FF:FF:FF")
+	if err != nil {
+		b.Fatalf("Unexpected error: %s", err)
+	}
+	embeddedDB := LoadEmbeddedDB()
+	for i := 0; i < b.N; i++ {
+		for _, v := range embeddedDB {
+			if strings.Contains(strings.ToUpper(addr.String()), v.OUI) {
+				break
+			}
+		}
+	}
+}
+
+func BenchmarkLookup(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		_, err := Lookup("A4:81:EE:FF:FF:FF")
+		if err != nil {
+			b.Fatalf("Unexpected error: %s", err)
+		}
 	}
 }

@@ -1,6 +1,7 @@
 package macvendor
 
 import (
+	"errors"
 	"net"
 	"reflect"
 	"strings"
@@ -61,6 +62,11 @@ func TestLookup(t *testing.T) {
 				t.Errorf("Lookup() = %v, want %v", got, tt.want)
 			}
 		})
+	}
+
+	_, err := Lookup("FF-FF-FF-FF-FF-FF")
+	if !errors.Is(err, ErrNotFound) {
+		t.Errorf("Lookup() ErrNotFound fail")
 	}
 }
 

@@ -28,7 +28,10 @@ type Vendor struct {
 	OUI string `json:"oui"`
 }
 
-var embeddedDB map[string]*Vendor
+var (
+	embeddedDB  map[string]*Vendor
+	ErrNotFound = fmt.Errorf("MAC not found in DB")
+)
 
 // Lookup finds the OUI the address belongs to
 func Lookup(mac string) (*Vendor, error) {
@@ -46,7 +49,7 @@ func Lookup(mac string) (*Vendor, error) {
 			return vendor, nil
 		}
 	}
-	return nil, fmt.Errorf("MAC not found in DB")
+	return nil, ErrNotFound
 }
 
 // FreeEmbeddedDB frees memory used by the database (if not already needed)

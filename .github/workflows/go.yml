@@ -22,7 +22,6 @@ jobs:
 
     - name: Test
       run: go test -v
-      continue-on-error: true
 
   update:
     name: Update embedded DB

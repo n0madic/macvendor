@@ -11,7 +11,7 @@ import (
 func getSourceReader(source string) (io.Reader, error) {
 	if strings.HasPrefix(source, "http") {
 		resp, err := http.Get(source)
-		if err != nil {
+		if err != nil && resp.StatusCode != 200 {
 			return nil, err
 		}
 		return resp.Body, nil
@@ -21,25 +21,20 @@ func getSourceReader(source string) (io.Reader, error) {
 }
 
 func decodeJsonLines(r io.Reader) (map[string]*Vendor, error) {
-	vendors := map[string]*Vendor{}
+	var v []Vendor
 	dec := json.NewDecoder(r)
-	for {
-		var vendor Vendor
-		err := dec.Decode(&vendor)
-		if err != nil {
-			if err == io.EOF {
-				break
-			}
-			return nil, err
-		}
-		vendor.CompanyAddress = strings.ReplaceAll(vendor.CompanyAddress, "`", "'")
+	err := dec.Decode(&v)
+	if err != nil {
+		return nil, err
+	}
+	vendors := map[string]*Vendor{}
+	for _, vendor := range v {
 		vendor.CompanyName = strings.ReplaceAll(vendor.CompanyName, "`", "'")
 		vendors[vendor.OUI] = &Vendor{
 			AssignmentBlockSize: vendor.AssignmentBlockSize,
 			CompanyName:         vendor.CompanyName,
-			CompanyAddress:      vendor.CompanyAddress,
-			CountryCode:         vendor.CountryCode,
 			IsPrivate:           vendor.IsPrivate,
+			LastUpdate:          vendor.LastUpdate,
 			OUI:                 vendor.OUI,
 		}
 	}

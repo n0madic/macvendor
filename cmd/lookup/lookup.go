@@ -16,6 +16,5 @@ func main() {
 	fmt.Println("AssignmentBlockSize:", vendor.AssignmentBlockSize)
 	fmt.Println("IsPrivate:", vendor.IsPrivate)
 	fmt.Println("CompanyName:", vendor.CompanyName)
-	fmt.Println("CountryCode:", vendor.CountryCode)
-	fmt.Println("CompanyAddress:", vendor.CompanyAddress)
+	fmt.Println("LastUpdate:", vendor.LastUpdate)
 }

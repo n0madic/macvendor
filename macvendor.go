@@ -13,19 +13,17 @@ type Vendor struct {
 	// 'MA-M' for MAC Address Block Medium
 	// 'MA-S' for MAC Address Block Small
 	// 'IAB' for Individual Address Block
-	AssignmentBlockSize string `json:"assignmentBlockSize"`
+	AssignmentBlockSize string `json:"blockType"`
 	// Name of the company which registered the MAC addresses block.
-	CompanyName string `json:"companyName"`
-	// Company's full address.
-	CompanyAddress string `json:"companyAddress"`
-	// Company's country code in ISO 3166 format.
-	CountryCode string `json:"countryCode"`
+	CompanyName string `json:"vendorName"`
 	// For an extra fee to IEEE, vendors can hide their details.
 	// In this case, this flag is set to 'true' and companyName,
 	// companyAddress and countryCode are 'private'.
-	IsPrivate bool `json:"isPrivate"`
+	IsPrivate bool `json:"private"`
+	// Last update record in the database.
+	LastUpdate string `json:"lastUpdate"`
 	// Organization Unique Identifier
-	OUI string `json:"oui"`
+	OUI string `json:"macPrefix"`
 }
 
 var (

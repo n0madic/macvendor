@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	inputPtr := flag.String("input", "https://macaddress.io/database/macaddress.io-db.json", "source database.json (file or url)")
+	inputPtr := flag.String("input", "https://maclookup.app/downloads/json-database/get-db", "source database.json (file or url)")
 	outputPtr := flag.String("output", "embedb.go", "destination file with embedded DB")
 
 	flag.Parse()
@@ -28,14 +28,13 @@ func main() {
 
 	embedb := fmt.Sprintf("package macvendor\n\nfunc LoadEmbeddedDB() map[string]*Vendor {\n  return map[string]*Vendor{\n")
 	for _, k := range keys {
-		embedb += fmt.Sprintf("    \"%s\": &Vendor{OUI: `%s`, AssignmentBlockSize: `%s`, IsPrivate: %t, CompanyName: `%s`, CompanyAddress: `%s`, CountryCode: `%s`},\n",
+		embedb += fmt.Sprintf("    \"%s\": {OUI: `%s`, AssignmentBlockSize: `%s`, IsPrivate: %t, CompanyName: `%s`, LastUpdate: `%s`},\n",
 			k,
 			db[k].OUI,
 			db[k].AssignmentBlockSize,
 			db[k].IsPrivate,
 			db[k].CompanyName,
-			db[k].CompanyAddress,
-			db[k].CountryCode,
+			db[k].LastUpdate,
 		)
 	}
 	embedb += fmt.Sprintf("  }\n}\n")

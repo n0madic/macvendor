@@ -6,7 +6,7 @@ import (
 )
 
 func TestDatabaseRelevance(t *testing.T) {
-	onlineDB, err := LoadSourceDB("https://macaddress.io/database/macaddress.io-db.json")
+	onlineDB, err := LoadSourceDB("https://maclookup.app/downloads/json-database/get-db")
 	if err != nil {
 		t.Fatal(err)
 	}

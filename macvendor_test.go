@@ -20,10 +20,9 @@ func TestLookup(t *testing.T) {
 			want: &Vendor{
 				OUI:                 "54:BF:64",
 				IsPrivate:           false,
-				CompanyName:         "Dell Inc",
-				CompanyAddress:      "One Dell Way Round Rock TX 78682 US",
-				CountryCode:         "US",
+				CompanyName:         "Dell Inc.",
 				AssignmentBlockSize: "MA-L",
+				LastUpdate:          "2018/02/15",
 			},
 		},
 		{
@@ -33,9 +32,8 @@ func TestLookup(t *testing.T) {
 				OUI:                 "94:05:BB:9",
 				IsPrivate:           false,
 				CompanyName:         "Zimmer GmbH",
-				CompanyAddress:      "Im Salmenkopf 5 Rheinau Baden-Württemberg 77866 DE",
-				CountryCode:         "DE",
 				AssignmentBlockSize: "MA-M",
+				LastUpdate:          "2020/01/16",
 			},
 		},
 		{
@@ -44,10 +42,9 @@ func TestLookup(t *testing.T) {
 			want: &Vendor{
 				OUI:                 "70:B3:D5:E6:F",
 				IsPrivate:           false,
-				CompanyName:         "Amazon Tech Inc",
-				CompanyAddress:      "P.O Box 8102 Reno NV 89507 US",
-				CountryCode:         "US",
+				CompanyName:         "Amazon Technologies Inc.",
 				AssignmentBlockSize: "MA-S",
+				LastUpdate:          "2019/09/27",
 			},
 		},
 	}

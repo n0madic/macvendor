@@ -2,50 +2,53 @@ package macvendor
 
 import (
 	"encoding/json"
+	"fmt"
 	"io"
 	"net/http"
 	"os"
 	"strings"
 )
 
-func getSourceReader(source string) (io.Reader, error) {
+// getSourceReader returns an io.Reader for the given source, which can be a URL or a file path
+func getSourceReader(source string) (io.ReadCloser, error) {
 	if strings.HasPrefix(source, "http") {
 		resp, err := http.Get(source)
-		if err != nil && resp.StatusCode != 200 {
+		if err != nil {
 			return nil, err
 		}
+		if resp.StatusCode != http.StatusOK {
+			resp.Body.Close()
+			return nil, fmt.Errorf("HTTP request failed with status code: %d", resp.StatusCode)
+		}
 		return resp.Body, nil
-	} else {
-		return os.Open(source)
 	}
+	return os.Open(source)
 }
 
+// decodeJsonLines decodes JSON lines from the reader into a map of Vendors
 func decodeJsonLines(r io.Reader) (map[string]*Vendor, error) {
-	var v []Vendor
+	var vendors []Vendor
 	dec := json.NewDecoder(r)
-	err := dec.Decode(&v)
-	if err != nil {
+	if err := dec.Decode(&vendors); err != nil {
 		return nil, err
 	}
-	vendors := map[string]*Vendor{}
-	for _, vendor := range v {
+
+	result := make(map[string]*Vendor, len(vendors))
+	for i := range vendors {
+		vendor := &vendors[i]
 		vendor.CompanyName = strings.ReplaceAll(vendor.CompanyName, "`", "'")
-		vendors[vendor.OUI] = &Vendor{
-			AssignmentBlockSize: vendor.AssignmentBlockSize,
-			CompanyName:         vendor.CompanyName,
-			IsPrivate:           vendor.IsPrivate,
-			LastUpdate:          vendor.LastUpdate,
-			OUI:                 vendor.OUI,
-		}
+		result[vendor.OUI] = vendor
 	}
-	return vendors, nil
+	return result, nil
 }
 
-// LoadSourceDB from file or URL
+// LoadSourceDB loads the vendor database from a file or URL
 func LoadSourceDB(source string) (map[string]*Vendor, error) {
 	r, err := getSourceReader(source)
 	if err != nil {
 		return nil, err
 	}
+	defer r.Close()
+
 	return decodeJsonLines(r)
 }

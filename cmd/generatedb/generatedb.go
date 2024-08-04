@@ -3,8 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"io/ioutil"
+	"os"
 	"sort"
+	"strings"
 
 	"github.com/n0madic/macvendor"
 )
@@ -17,30 +18,35 @@ func main() {
 
 	db, err := macvendor.LoadSourceDB(*inputPtr)
 	if err != nil {
-		panic(err)
+		fmt.Fprintf(os.Stderr, "Error loading source DB: %v\n", err)
+		os.Exit(1)
 	}
 
-	keys := []string{}
+	keys := make([]string, 0, len(db))
 	for k := range db {
 		keys = append(keys, k)
 	}
 	sort.Strings(keys)
 
-	embedb := fmt.Sprintf("package macvendor\n\nfunc LoadEmbeddedDB() map[string]*Vendor {\n  return map[string]*Vendor{\n")
-	for _, k := range keys {
-		embedb += fmt.Sprintf("    \"%s\": {OUI: `%s`, AssignmentBlockSize: `%s`, IsPrivate: %t, CompanyName: `%s`, LastUpdate: `%s`},\n",
-			k,
-			db[k].OUI,
-			db[k].AssignmentBlockSize,
-			db[k].IsPrivate,
-			db[k].CompanyName,
-			db[k].LastUpdate,
-		)
-	}
-	embedb += fmt.Sprintf("  }\n}\n")
+	var sb strings.Builder
+	sb.WriteString("package macvendor\n\nfunc LoadEmbeddedDB() map[string]*Vendor {\n  return map[string]*Vendor{\n")
 
-	err = ioutil.WriteFile(*outputPtr, []byte(embedb), 0644)
+	for _, k := range keys {
+		v := db[k]
+		fmt.Fprintf(&sb, "    %q: {OUI: %q, AssignmentBlockSize: %q, IsPrivate: %t, CompanyName: %q, LastUpdate: %q},\n",
+			k,
+			v.OUI,
+			v.AssignmentBlockSize,
+			v.IsPrivate,
+			v.CompanyName,
+			v.LastUpdate)
+	}
+
+	sb.WriteString("  }\n}")
+
+	err = os.WriteFile(*outputPtr, []byte(sb.String()), 0644)
 	if err != nil {
-		panic(err)
+		fmt.Fprintf(os.Stderr, "Error writing output file: %v\n", err)
+		os.Exit(1)
 	}
 }

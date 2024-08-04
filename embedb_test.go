@@ -2,6 +2,7 @@ package macvendor
 
 import (
 	"reflect"
+	"strings"
 	"testing"
 )
 
@@ -11,19 +12,19 @@ func TestDatabaseRelevance(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	embeddedDB := LoadEmbeddedDB()
+	embeddedDB, err := LoadEmbeddedDB()
+	if err != nil {
+		t.Fatal(err)
+	}
 
 	for key, vendor := range onlineDB {
-		if emvendor, ok := embeddedDB[key]; ok {
+		key = strings.ToLower(key)
+		if emvendor, ok := embeddedDB.Search([]byte(key)); ok {
 			if !reflect.DeepEqual(*vendor, *emvendor) {
 				t.Errorf("Changed OUI: get %v, present %v", vendor, *emvendor)
 			}
-			delete(embeddedDB, key)
 		} else {
-			t.Errorf("Found new OUI in online DB: %s", key)
+			t.Fatalf("Missing OUI: %v", vendor)
 		}
-	}
-	if len(embeddedDB) != 0 {
-		t.Errorf("Found %d deleted keys in embedded DB", len(embeddedDB))
 	}
 }

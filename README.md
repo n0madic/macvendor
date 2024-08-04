@@ -28,4 +28,4 @@ When the vendor base is no longer required, you can free memory in the heap usin
 macvendor.FreeEmbeddedDB()
 ```
 
-Frees more than 10 megabytes.
+Frees more than 6 megabytes.

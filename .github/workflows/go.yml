@@ -31,12 +31,12 @@ jobs:
     steps:
 
     - name: Set up Go
-      uses: actions/setup-go@v3
+      uses: actions/setup-go@v5
       with:
         go-version: 1.15
 
     - name: Check out code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Get package
       run: go get github.com/n0madic/macvendor
@@ -49,6 +49,6 @@ jobs:
         author_name: Nomadic
         author_email: nomadic.ua@gmail.com
         message: "Update embedded DB"
-        add: "embedb.go"
+        add: "embedb.bin.gz"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

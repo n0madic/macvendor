@@ -6,7 +6,6 @@ import (
 	_ "embed"
 	"encoding/gob"
 	"fmt"
-	"io"
 )
 
 //go:embed embedb.bin.gz
@@ -20,14 +19,8 @@ func LoadEmbeddedDB() (*Trie, error) {
 	}
 	defer reader.Close()
 
-	decompressedData, err := io.ReadAll(reader)
-	if err != nil {
-		return nil, fmt.Errorf("failed to decompress data: %w", err)
-	}
-
 	var trie Trie
-	buffer := bytes.NewBuffer(decompressedData)
-	decoder := gob.NewDecoder(buffer)
+	decoder := gob.NewDecoder(reader)
 
 	if err := decoder.Decode(&trie); err != nil {
 		return nil, fmt.Errorf("failed to decode trie: %w", err)

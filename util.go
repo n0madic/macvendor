@@ -1,15 +1,40 @@
 package macvendor
 
 import (
+	"bufio"
+	"encoding/hex"
 	"encoding/json"
 	"fmt"
 	"io"
+	"math"
 	"net/http"
 	"os"
+	"sort"
 	"strconv"
 	"strings"
 	"time"
 )
+
+// SourceURL is the default location of the source vendor database
+const SourceURL = "https://maclookup.app/downloads/json-database/get-db"
+
+// VendorItem info with optimized structure for internal storage
+type VendorItem struct {
+	Flags       uint8  // Flags for block size and privacy
+	CompanyName string // Name of the company
+	LastUpdate  int64  // Unix timestamp for the last update
+	OUI         []byte // OUI stored as a byte slice
+}
+
+// BlockSize converts block size flags to a readable form
+func (v *VendorItem) BlockSize() string {
+	return blockSize(v.Flags)
+}
+
+// IsPrivate checks if the vendor is private
+func (v *VendorItem) IsPrivate() bool {
+	return v.Flags&FlagPrivate != 0
+}
 
 // getSourceReader returns an io.Reader for the given source, which can be a URL or a file path
 func getSourceReader(source string) (io.ReadCloser, error) {
@@ -69,6 +94,65 @@ func LoadSourceDB(source string) (map[string]*VendorItem, error) {
 	return decodeJsonLines(r)
 }
 
+// WriteTSV writes the vendor database in the embedded TSV format:
+// sorted lines of <hex prefix>\t<flags>\t<days since Unix epoch>\t<company name>
+func WriteTSV(w io.Writer, db map[string]*VendorItem) error {
+	lines := make([]string, 0, len(db))
+	for _, v := range db {
+		line, err := tsvLine(v)
+		if err != nil {
+			return err
+		}
+		lines = append(lines, line)
+	}
+	sort.Strings(lines)
+
+	bw := bufio.NewWriter(w)
+	for _, line := range lines {
+		bw.WriteString(line)
+	}
+	return bw.Flush()
+}
+
+// tsvLine formats a single vendor entry as a TSV line
+func tsvLine(v *VendorItem) (string, error) {
+	prefix, err := prefixHex(v.OUI)
+	if err != nil {
+		return "", err
+	}
+	days := v.LastUpdate / 86400
+	if v.LastUpdate <= 0 {
+		days = 0 // unknown date sentinel
+	}
+	if days > math.MaxUint16 {
+		return "", fmt.Errorf("date out of range for OUI %s: %d", prefix, v.LastUpdate)
+	}
+	name := strings.Map(func(r rune) rune {
+		if r == '\t' || r == '\n' || r == '\r' {
+			return ' '
+		}
+		return r
+	}, v.CompanyName)
+	return fmt.Sprintf("%s\t%d\t%d\t%s\n", prefix, v.Flags, days, name), nil
+}
+
+// prefixHex converts an OUI byte slice to its hex form without separators,
+// where the last byte of 4- and 5-byte prefixes holds a single trailing nibble
+func prefixHex(oui []byte) (string, error) {
+	switch len(oui) {
+	case 3:
+		return hex.EncodeToString(oui), nil
+	case 4, 5:
+		last := oui[len(oui)-1]
+		if last > 0xf {
+			return "", fmt.Errorf("last byte of OUI %x is not a single nibble", oui)
+		}
+		return hex.EncodeToString(oui[:len(oui)-1]) + string("0123456789abcdef"[last]), nil
+	default:
+		return "", fmt.Errorf("unsupported OUI length %d: %x", len(oui), oui)
+	}
+}
+
 // ComputeFlags calculates the flag value for the given block size and privacy status
 func ComputeFlags(blockType string, isPrivate bool) uint8 {
 	var flags uint8
@@ -115,7 +199,6 @@ func ByteSliceToMac(mac []byte) string {
 
 	// Join the parts with a colon separator
 	return strings.Join(hexParts, ":")
-
 }
 
 // parseDate attempts to parse the date string into a Unix timestamp

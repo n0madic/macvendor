@@ -65,6 +65,19 @@ func TestLookup(t *testing.T) {
 	}
 }
 
+func TestVendorItemHelpers(t *testing.T) {
+	v := &VendorItem{Flags: ComputeFlags("MA-M", true), OUI: []byte{0x8c, 0x5d, 0xb2, 0x09}}
+	if got := v.BlockSize(); got != "MA-M" {
+		t.Errorf("BlockSize() = %q, want %q", got, "MA-M")
+	}
+	if !v.IsPrivate() {
+		t.Error("IsPrivate() = false, want true")
+	}
+	if got := ByteSliceToMac(v.OUI); got != "8c:5d:b2:9" {
+		t.Errorf("ByteSliceToMac() = %q, want %q", got, "8c:5d:b2:9")
+	}
+}
+
 func BenchmarkLookup(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		_, err := Lookup("A4:81:EE:FF:FF:FF")

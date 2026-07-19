@@ -22,10 +22,12 @@ if err != nil {
 fmt.Println(vendor.CompanyName)
 ```
 
-When the vendor base is no longer required, you can free memory in the heap using
+The database is embedded as a plain-text TSV file and parsed lazily on the
+first `Lookup` call into a compact binary-search index (about 1 MB of heap;
+company names are served directly from the embedded data without copying).
+
+When the vendor base is no longer required, you can free the index memory using
 
 ```go
 macvendor.FreeEmbeddedDB()
 ```
-
-Frees more than 6 megabytes.

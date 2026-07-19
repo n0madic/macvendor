@@ -4,18 +4,9 @@ import (
 	"errors"
 	"net"
 	"sync"
-	"time"
 )
 
-// VendorItem info with optimized structure for internal storage
-type VendorItem struct {
-	Flags       uint8  // Flags for block size and privacy
-	CompanyName string // Name of the company
-	LastUpdate  int64  // Unix timestamp for the last update
-	OUI         []byte // OUI stored as a byte slice
-}
-
-// Original Vendor struct for output purposes
+// Vendor holds MAC vendor information
 type Vendor struct {
 	AssignmentBlockSize string `json:"blockType"`  // Assignment block size
 	CompanyName         string `json:"vendorName"` // Name of the company
@@ -35,123 +26,80 @@ const (
 
 var (
 	dbMutex     sync.RWMutex
-	vendorTrie  *Trie
+	vendorDB    *db
 	ErrNotFound = errors.New("MAC not found in DB")
 )
 
-// TrieNode represents a node in the trie
-type TrieNode struct {
-	Children map[byte]*TrieNode
-	Vendor   *VendorItem
-}
-
-// Trie structure to store MAC prefixes
-type Trie struct {
-	Root *TrieNode
-}
-
-// Insert adds a MAC prefix and its Vendor information into the trie
-func (t *Trie) Insert(prefix []byte, vendor *VendorItem) {
-	node := t.Root
-	for _, b := range prefix {
-		if node.Children == nil {
-			node.Children = make(map[byte]*TrieNode)
-		}
-		if node.Children[b] == nil {
-			node.Children[b] = &TrieNode{}
-		}
-		node = node.Children[b]
+// getDB lazily parses the embedded database on first use
+func getDB() (*db, error) {
+	dbMutex.RLock()
+	d := vendorDB
+	dbMutex.RUnlock()
+	if d != nil {
+		return d, nil
 	}
-	node.Vendor = vendor
-}
 
-// Search finds the Vendor for a given MAC address prefix
-func (t *Trie) Search(mac []byte) (*VendorItem, bool) {
-	node := t.Root
-	for _, b := range mac {
-		if node.Children == nil || node.Children[b] == nil {
-			return nil, false
+	dbMutex.Lock()
+	defer dbMutex.Unlock()
+	if vendorDB == nil {
+		d, err := loadEmbeddedDB()
+		if err != nil {
+			return nil, err
 		}
-		node = node.Children[b]
+		vendorDB = d
 	}
-	return node.Vendor, node.Vendor != nil
+	return vendorDB, nil
 }
 
 // Lookup finds the OUI the address belongs to and converts it to a readable format
 func Lookup(mac string) (*Vendor, error) {
-	// Try to parse the MAC address
 	addr, err := net.ParseMAC(mac)
 	if err != nil {
 		return nil, err
 	}
 
-	dbMutex.RLock()
-	if vendorTrie == nil {
-		dbMutex.RUnlock()
-		dbMutex.Lock()
-		if vendorTrie == nil {
-			vendorTrie, err = LoadEmbeddedDB()
-			if err != nil {
-				dbMutex.Unlock()
-				return nil, err
-			}
-		}
-		dbMutex.Unlock()
-		dbMutex.RLock()
+	d, err := getDB()
+	if err != nil {
+		return nil, err
 	}
-	defer dbMutex.RUnlock()
 
-	// Convert the MAC address to a byte slice
-	addrBytes := []byte(addr.String())
+	key24 := uint32(addr[0])<<16 | uint32(addr[1])<<8 | uint32(addr[2])
+	key28 := key24<<4 | uint32(addr[3]>>4)
+	key36 := uint64(key28)<<8 | uint64(addr[3]&0xf)<<4 | uint64(addr[4]>>4)
 
-	// Attempt to find the vendor by checking prefixes in the trie
-	prefixLengths := []int{13, 10, 8}
-	for _, length := range prefixLengths {
-		if len(addrBytes) >= length {
-			if vendorItem, found := vendorTrie.Search(addrBytes[:length]); found {
-				return convertVendorItemToVendor(vendorItem), nil
-			}
-		}
+	// Check the most specific prefixes first
+	if rec, ok := search(d.mas, key36); ok {
+		return d.vendor(rec, oui36(key36)), nil
+	}
+	if rec, ok := search(d.mam, key28); ok {
+		return d.vendor(rec, oui28(key28)), nil
+	}
+	if rec, ok := search(d.mal, key24); ok {
+		return d.vendor(rec, oui24(key24)), nil
 	}
 
 	return nil, ErrNotFound
 }
 
-// ConvertVendorItemToVendor converts a VendorItem to a Vendor
-func convertVendorItemToVendor(vendorItem *VendorItem) *Vendor {
-	return &Vendor{
-		AssignmentBlockSize: vendorItem.BlockSize(),
-		CompanyName:         vendorItem.CompanyName,
-		IsPrivate:           vendorItem.IsPrivate(),
-		LastUpdate:          time.Unix(vendorItem.LastUpdate, 0).UTC().Format("2006/01/02"),
-		OUI:                 ByteSliceToMac(vendorItem.OUI),
-	}
-}
-
-// FreeEmbeddedDB frees memory used by the database (if not already needed)
+// FreeEmbeddedDB frees memory used by the parsed database index
 func FreeEmbeddedDB() {
 	dbMutex.Lock()
-	vendorTrie = nil
+	vendorDB = nil
 	dbMutex.Unlock()
 }
 
-// Additional helper function to check block size flags
-func (v *VendorItem) BlockSize() string {
+// blockSize converts block size flags to a readable form
+func blockSize(flags uint8) string {
 	switch {
-	case v.Flags&FlagMAL != 0:
+	case flags&FlagMAL != 0:
 		return "MA-L"
-	case v.Flags&FlagMAM != 0:
+	case flags&FlagMAM != 0:
 		return "MA-M"
-	case v.Flags&FlagMAS != 0:
+	case flags&FlagMAS != 0:
 		return "MA-S"
-	case v.Flags&FlagIAB != 0:
+	case flags&FlagIAB != 0:
 		return "IAB"
 	default:
 		return "Unknown"
 	}
-}
-
-// Check if the vendor is private
-func (v *VendorItem) IsPrivate() bool {
-	return v.Flags&FlagPrivate != 0
 }

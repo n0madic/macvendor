@@ -19960,6 +19960,7 @@
 14755b	1	18991	Intel Corporate
 147590	1	16756	TP-LINK TECHNOLOGIES CO.,LTD.
 1475e5	1	20306	ELMAX Srl
+147649	1	20656	Hewlett Packard Enterprise
 147740	1	18241	Huawei Device Co., Ltd.
 14780b	1	17431	Varex Imaging Deutschland AG
 147830	1	20641	NVIDIA Corporation
@@ -23977,7 +23978,7 @@
 34049e1	2	18067	Connected IO
 34049e2	2	17077	EFD Induction
 34049e3	2	17077	Nanjing Mythware Information Technology Co., Ltd.
-34049e4	2	17077	Harbin Yantuo Science and Technology Development Co., Ltd
+34049e4	2	20656	Harbin Xilu Technology Co., Ltd
 34049e5	2	17077	Seeiner Technology Co.,LTD
 34049e6	2	17077	Life Interface Co., Ltd.
 34049e7	2	17109	Pebble Technology
@@ -27234,6 +27235,7 @@
 482e72	1	18955	Cisco Systems, Inc
 482f6b	1	19808	Hewlett Packard Enterprise
 482fd7	1	18845	HUAWEI TECHNOLOGIES CO.,LTD
+483106	1	20656	NVIDIA Corporation
 483133	1	19433	Robert Bosch Elektronika Kft.
 483177	1	19313	Nintendo Co.,Ltd
 4831b7	1	19404	Espressif Inc.
@@ -38655,8 +38657,14 @@
 7ce1ff	1	16756	Computer Performance, Inc. DBA Digital Loggers, Inc.
 7ce269	1	19291	Texas Instruments
 7ce2ca	1	17254	Juniper Networks
+7ce4a1	1	20656	IEEE Registration Authority
 7ce4a12	2	20655	De Haardt bv
+7ce4a16	2	20656	ISR Technologies Israel Ltd
+7ce4a17	2	20656	Keenfinity S.A.
+7ce4a18	2	20656	Shenzhen Liandian Communication Technology Co.LTD
 7ce4a19	2	20655	Annapurna labs
+7ce4a1b	2	20656	Cummins Inc
+7ce4a1d	2	20656	HAROGIC TECHNOLOGIES PTE. LTD.
 7ce4aa	1	16756	Private
 7ce524	1	16756	Quirky, Inc.
 7ce53f	1	19962	HUAWEI TECHNOLOGIES CO.,LTD
@@ -40948,6 +40956,7 @@
 8c1f6433f	4	20588	Lotec Teknoloji Limited Sirketi
 8c1f64340	4	19963	BRS Sistemas Eletrônicos
 8c1f64342	4	19698	TimeMachines Inc.
+8c1f64343	4	20656	Syscom Instruments SA
 8c1f64345	4	20147	Kreafeuer AG, Swiss finsh
 8c1f64347	4	19793	Plut d.o.o.
 8c1f64348	4	20354	Breas Medical AB
@@ -41843,6 +41852,7 @@
 8c1f6482c	4	20588	Power Electronics Espana, S.L.
 8c1f6482f	4	19445	AnySignal
 8c1f64830	4	19348	Vtron Pty Ltd
+8c1f64831	4	20656	Audio Plus
 8c1f64835	4	20424	ADETEC SAS
 8c1f64837	4	19276	runZero, Inc
 8c1f64838	4	19474	DRIMAES INC.
@@ -44238,6 +44248,7 @@
 90f421d	2	19441	Taichitel Technology Shanghai Co.,Ltd.
 90f421e	2	19441	Velan Studios Inc.
 90f4c1	1	16756	Rand McNally
+90f510	1	20656	Technologie Optic.ca Inc.
 90f644	1	18419	Huawei Device Co., Ltd.
 90f652	1	16756	TP-LINK TECHNOLOGIES CO.,LTD.
 90f721	1	19718	IndiNatus (IndiNatus India Private Limited)
@@ -46484,6 +46495,7 @@ a43523	1	17684	Guangdong Donyan Network Technologies Co.,Ltd.
 a4352d	1	18660	TRIZ Networks corp.
 a436c7	1	19502	LG Innotek
 a4373e	1	19586	Huawei Device Co., Ltd.
+a437e6	1	20656	Murata Manufacturing Co., Ltd.
 a43831	1	16756	RF elements s.r.o.
 a438cc	1	17511	Nintendo Co.,Ltd
 a438fc	1	16756	Plastic Logic
@@ -51562,6 +51574,7 @@ cc208c	1	18555	HUAWEI TECHNOLOGIES CO.,LTD
 cc20ac	1	20033	Samsung Electronics Co.,Ltd
 cc20e8	1	16756	Apple, Inc.
 cc2119	1	17684	Samsung Electronics Co.,Ltd
+cc219d	1	20656	Shenzhen Wangliantong Intelligent Technology Co.,Lte
 cc2218	1	16756	InnoDigital Co., Ltd.
 cc2237	1	17348	IEEE Registration Authority
 cc22370	2	17370	MEDCOM sp. z o.o.
@@ -55918,6 +55931,7 @@ eca7b1c	2	19933	Hiromokuten Co.,Ltd.
 eca7b1d	2	19934	USU TELECOM INDIA PRIVATE LIMITED
 eca7b1e	2	19943	Artisight, Inc.
 eca81f	1	19473	Vantiva USA LLC
+eca854	1	20656	EFOCE Technology Co., Ltd.
 eca86b	1	16831	Elitegroup Computer Systems Co.,Ltd.
 eca907	1	18926	Apple, Inc.
 eca940	1	20012	Commscope
@@ -56509,7 +56523,7 @@ f0d805	1	19762	Cisco Systems, Inc
 f0d9b2	1	16979	EXO S.A.
 f0da7c	1	16756	RLH INDUSTRIES,INC.
 f0db2a	1	20066	LANNER ELECTRONICS, INC.
-f0db30	1	16756	Yottabyte
+f0db30	1	20656	Verge.io
 f0dbe2	1	16756	Apple, Inc.
 f0dbf8	1	16756	Apple, Inc.
 f0dce2	1	17450	Apple, Inc.
@@ -56558,6 +56572,7 @@ f0f842	1	16756	KEEBOX, Inc.
 f0f84a	1	19570	BUFFALO.INC
 f0f8f2	1	17274	Texas Instruments
 f0f9f7	1	16756	IES GmbH & Co. KG
+f0faba	1	20656	NVIDIA Corporation
 f0fac7	1	18403	Huawei Device Co., Ltd.
 f0fb56	1	15374	Apple, Inc.
 f0fb7f	1	20370	Mellanox Technologies, Inc.

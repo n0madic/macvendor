@@ -20826,6 +20826,7 @@
 1c2704	1	17898	zte corporation
 1c27dd	1	17415	Datang Gohighsec(zhejiang)Information Technology Co.,Ltd.
 1c28af	1	19808	Hewlett Packard Enterprise
+1c2904	1	20661	Espressif Inc.
 1c2a8b	1	18747	Nokia
 1c2aa3	1	18121	Shenzhen HongRui Optical Technology Co., Ltd.
 1c2ab0	1	19328	Beijing Xiaomi Electronics Co.,Ltd
@@ -21425,6 +21426,7 @@
 2021a5	1	17389	LG Electronics (Mobile Communications)
 202351	1	20173	TP-Link Systems Inc
 202564	1	16825	PEGATRON CORPORATION
+202565	1	20661	Espressif Inc.
 202598	1	16756	Teleview
 2025cc	1	20237	Xiaomi Communications Co Ltd
 2025d2	1	18654	Fiberhome Telecommunication Technologies Co.,LTD
@@ -38672,8 +38674,10 @@
 7ce269	1	19291	Texas Instruments
 7ce2ca	1	17254	Juniper Networks
 7ce4a1	1	20656	IEEE Registration Authority
+7ce4a10	2	20661	ALTOS COMPUTING (INDIA) PRIVATE LIMITED
 7ce4a11	2	20658	TRULY ELECTRONICS MFG.,LTD
 7ce4a12	2	20655	De Haardt bv
+7ce4a13	2	20661	Vybe Audio LLC
 7ce4a14	2	20658	Weihai Idencoder Electronic Technology Co.,Ltd
 7ce4a15	2	20659	HI Tecnologia Industria e Comercio Ltda
 7ce4a16	2	20656	ISR Technologies Israel Ltd
@@ -38913,6 +38917,7 @@
 80501b	1	16756	Nokia Corporation
 805067	1	16756	W & D TECHNOLOGY CORPORATION
 8050f6	1	17577	ITEL MOBILE LIMITED
+8053e0	1	20661	Espressif Inc.
 80542d	1	20196	Samsung Electronics Co.,Ltd
 80546a	1	17783	SHENZHEN GONGJIN ELECTRONICS CO.,LT
 80549c	1	19087	Samsung Electronics Co.,Ltd
@@ -40776,6 +40781,7 @@
 8c1f6420c	4	19436	Shanghai Stairmed Technology Co.,ltd
 8c1f6420d	4	19649	Grossenbacher Systeme AG
 8c1f6420e	4	19313	Alpha Bridge Technologies Private Limited
+8c1f6420f	4	20661	DAVE SRL
 8c1f64210	4	20641	Trunexa Inc
 8c1f64211	4	19340	Bipom Electronics, Inc.
 8c1f64212	4	20633	SVMS
@@ -44857,6 +44863,7 @@
 980637e	2	18047	Shanghai Jinnian information technology Co. Ltd
 98063a	1	18492	Home Control Singapore Pte Ltd
 98063c	1	18363	Samsung Electronics Co.,Ltd
+9806a3	1	20661	GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 980709	1	19782	Huawei Device Co., Ltd.
 98072d	1	16825	Texas Instruments
 980802	1	19829	ORBIS BV
@@ -47918,6 +47925,7 @@ acf6f7	1	17866	LG Electronics (Mobile Communications)
 acf70d	1	20229	China Mobile Group Device Co.,Ltd.
 acf7f3	1	17039	Xiaomi Communications Co Ltd
 acf85c	1	18531	Chengdu Higon Integrated Circuit Design Co,. Ltd.
+acf896	1	20661	eero inc.
 acf8cc	1	20012	Commscope
 acf932	1	20370	NXP Semiconductor (Tianjin) LTD.
 acf970	1	17470	HUAWEI TECHNOLOGIES CO.,LTD
@@ -48835,6 +48843,7 @@ b4cdf5	1	18737	CUB ELECPARTS INC.
 b4ce40	1	18262	Samsung Electronics Co.,Ltd
 b4cef6	1	16756	HTC Corporation
 b4cefe	1	17631	James Czekaj
+b4cf49	1	20661	WNC Corporation
 b4cfdb	1	16756	Shenzhen Jiuzhou Electric Co.,LTD
 b4cfe0	1	17966	Sichuan tianyi kanghe communications co., LTD
 b4d0a9	1	17873	China Mobile Group Device Co.,Ltd.
@@ -49229,6 +49238,7 @@ b8b94e	1	16756	Shenzhen iBaby Labs, Inc.
 b8ba66	1	20452	Microsoft Corporation
 b8ba68	1	16756	Xi'an Jizhong Digital Communication Co.,Ltd
 b8ba72	1	16756	Cynove
+b8bb11	1	20661	Espressif Systems (Singapore) Pte. Ltd
 b8bb23	1	16918	Guangdong Nufront CSC Co., Ltd
 b8bb6d	1	16756	ENERES Co.,Ltd.
 b8bbaf	1	17218	Samsung Electronics Co.,Ltd
@@ -51453,6 +51463,7 @@ c8e713	1	20404	Bouffalo Lab (Nanjing) Co., Ltd.
 c8e776	1	16963	PTCOM Technology
 c8e7d8	1	17577	MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 c8e7f0	1	17348	Juniper Networks
+c8e8af	1	20661	eero inc.
 c8eaf8	1	17952	zte corporation
 c8ebec	1	19041	Shenzhen YOUHUA Technology Co., Ltd
 c8edfc	1	19276	Shenzhen Ideaform Industrial Product Design Co., Ltd
@@ -51822,6 +51833,7 @@ cc7b61	1	17592	NIKKISO CO., LTD.
 cc7d37	1	20012	Commscope
 cc7d5b	1	18935	Telink Semiconductor (Shanghai) Co., Ltd.
 cc7e0f	1	19809	Theben AG
+cc7e1f	1	20661	Espressif Inc.
 cc7ee7	1	17310	Panasonic Corporation AVC Networks Company
 cc7f75	1	18250	Cisco Systems, Inc
 cc7f76	1	18262	Cisco Systems, Inc

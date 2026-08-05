@@ -7697,7 +7697,7 @@
 001d63	1	16756	Miele & Cie. KG
 001d64	1	16756	Adam Communications Systems Int Ltd
 001d65	1	16756	Microwave Radio Communications
-001d66	1	16756	Hyundai Telecom
+001d66	1	20669	HYUNDAI HT Co., Ltd.
 001d67	1	16756	AMEC
 001d68	1	16756	Thomson Telecom Belgium
 001d69	1	16756	Knorr-Bremse IT-Services GmbH
@@ -24340,6 +24340,7 @@
 34b20a	1	18079	Huawei Device Co., Ltd.
 34b354	1	16864	HUAWEI TECHNOLOGIES CO.,LTD
 34b472	1	18758	Espressif Inc.
+34b4f0	1	20669	Hasselblad (Shenzhen) Trading CompanyLimited
 34b571	1	16756	PLDS
 34b5a3	1	18093	CIG SHANGHAI CO LTD
 34b5f3	1	20280	IEEE Registration Authority
@@ -29966,6 +29967,7 @@
 5c4dbf	1	19342	zte corporation
 5c4eee	1	19909	AltoBeam Inc.
 5c5015	1	16756	Cisco Systems, Inc
+5c50d3	1	20669	Knit Sound Company
 5c50d9	1	18867	Apple, Inc.
 5c5136	1	20427	Samsung Electronics Co.,Ltd
 5c514f	1	16756	Intel Corporate
@@ -31838,6 +31840,7 @@
 6a1f6c	0	17196	iPass, Inc.
 6a4065	0	17627	Open Connectivity Foundation
 6a5c35	0	17909	Secrétariat général de la défense et de la sécurité nationale
+6a61ee	0	20669	Nanjing Etlchips Microelectronics Technology Co., LTD
 6a621e	0	19130	DIFI Consortium
 6a71e6	0	19482	FuelCloud
 6a737d	0	16856	25G Ethernet Consortium
@@ -38209,6 +38212,7 @@
 7a84f0	0	17952	McDowell Signal Processing, LLC (dba McDSP)
 7a8dd1	0	19740	TePS'EG
 7aab77	0	16856	Orange
+7ab230	0	20669	European Telecommunications Standards Institute
 7af955	0	19620	Relay, Inc.
 7afd44	0	17196	Rosenberger Hochfrequenztechnik GmbH & Co. KG
 7c004d	1	18614	HUAWEI TECHNOLOGIES CO.,LTD
@@ -39194,7 +39198,7 @@
 80c01e	1	19909	Intel Corporate
 80c16e	1	16756	Hewlett Packard
 80c2f0	1	20468	Xiamen Yeastar Digital Technology Co.,Ltd
-80c3ba	1	19195	Sonova Consumer Hearing GmbH
+80c3ba	1	20669	Sonova Consumer Hearing GmbH
 80c41b	1	19474	Texas Instruments
 80c429	1	20490	Renesas Electronics Operations Services Limited
 80c45d	1	19382	IPG Laser GmbH
@@ -41042,6 +41046,7 @@
 8c1f64354	4	19208	Paul Tagliamonte
 8c1f64357	4	20185	YUYAMA MFG Co.,Ltd
 8c1f64358	4	19482	Denso Manufacturing Tennessee
+8c1f64359	4	20669	Dongguan Ritian Communication Technology Co., Ltd.
 8c1f6435a	4	20578	Korea Electric Vehicle Infra Technology
 8c1f6435c	4	19011	Opgal Optronic Industries ltd
 8c1f6435d	4	18965	Security&Best
@@ -47611,6 +47616,7 @@ ac3dfa	1	20416	Hangzhou Huacheng Network Technology Co.,Ltd
 ac3eb1	1	19220	Google, Inc.
 ac3fa4	1	16756	TAIYO YUDEN CO.,LTD
 ac401e	1	20445	vivo Mobile Communication Co., Ltd.
+ac40b5	1	20669	Lumiva Inc.
 ac40ea	1	16756	C&T Solution Inc.
 ac4122	1	16756	Eclipse Electronic Systems Inc.
 ac416a	1	19410	Amazon Technologies Inc.
@@ -52730,9 +52736,15 @@ d0d94fd	2	17038	DUKSANMECASYS CO., LTD.
 d0d94fe	2	17038	APPOTRONICS CO., LTD
 d0da24	1	20665	IEEE Registration Authority
 d0da241	2	20665	WITSTEK HONGKONG LIMITED
+d0da244	2	20669	National Security Technology JSC
+d0da245	2	20669	Shenzhen Zhangyue Technology Co.,Ltd
+d0da246	2	20669	AHEESA DIGITAL INNOVATIONS PRIVATE LIMITED
 d0da247	2	20668	CANLAB CO., LTD.
 d0da248	2	20665	Shanghai Yunsilicon Technology Co., Ltd.
+d0da249	2	20669	Teradyne Robotics A/S
 d0da24b	2	20668	CJMS LLC
+d0da24c	2	20669	Alloop（Hong kong）Limited
+d0da24d	2	20669	AmenTech Inc.
 d0dad7	1	19153	Apple, Inc.
 d0db32	1	16756	Nokia Corporation
 d0dbb7	1	18740	Casa Systems

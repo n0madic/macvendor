@@ -17880,6 +17880,7 @@
 04d4c4	1	17881	ASUSTek COMPUTER INC.
 04d590	1	19649	Fortinet, Inc.
 04d60e	1	18661	FUNAI ELECTRIC CO., LTD.
+04d634	1	20678	Nanjing RISC-V Institute Co., Ltd.
 04d688	1	20343	CIG SHANGHAI CO LTD
 04d6aa	1	17330	SAMSUNG ELECTRO-MECHANICS(THAILAND)
 04d6f4	1	18608	GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -23852,7 +23853,12 @@
 30bb28	1	20676	IEEE Registration Authority
 30bb280	2	20676	Digital Reach Pvt Ltd
 30bb281	2	20677	FairPhone B.V.
+30bb282	2	20678	ROOMIO LIMITED
 30bb283	2	20677	Cellslink Intelligence Technology Co,Ltd
+30bb284	2	20678	HUIZHOU HENGDU ELECTRONICS CO.,LTD.
+30bb286	2	20678	Sunwoda Mobility Energy Technology Co., Ltd.
+30bb287	2	20678	MSGQ TECHNOLOGIES SERVICES PRIVATE LIMITED
+30bb288	2	20678	Kahf Software Limited
 30bb28a	2	20677	Bull Creek Technologies
 30bb28b	2	20676	JiangSu Shenzhou Semiconductor Technology Co.,Ltd
 30bb28c	2	20675	TAIRA(Lasersan Advanced Teknoloji Sistemleri A.Ş.)
@@ -26956,6 +26962,7 @@
 448c00	1	18949	Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 448c52	1	16756	KTIS CO., Ltd
 448cab	1	19157	Beijing Flitlink Vientiane Technology Co., LTD
+448cec	1	20678	Anhui Sunchip semiconductor technology Co;Ltd
 448dbf	1	18312	Rhino Mobility LLC
 448dd5	1	20306	Cisco Systems, Inc
 448e12	1	16756	DT Research, Inc.
@@ -28439,6 +28446,7 @@
 504289	1	19012	zte corporation
 504348	1	18615	ThingsMatrix Inc.
 5043b9	1	18207	OktoInform RUS
+504472	1	20678	Motorola Mobility LLC, a Lenovo Company
 504594	1	19342	Radisys
 5045f7	1	16756	Liuhe Intelligence Technology Ltd.
 50464a	1	18304	HUAWEI TECHNOLOGIES CO.,LTD
@@ -28700,6 +28708,7 @@
 50b888	1	16756	wi2be Tecnologia S/A
 50b8a2	1	16756	ImTech Technologies LLC,
 50ba02	1	19948	Qingdao Intelligent&Precise Electronics Co.,Ltd.
+50ba84	1	20678	Cisco Systems, Inc
 50bb9f	1	20175	Vantiva USA LLC
 50bbb5	1	20171	AzureWave Technology Inc.
 50bc96	1	17528	Apple, Inc.
@@ -29006,6 +29015,7 @@
 544617	1	18567	zte corporation
 54466b	1	16756	Shenzhen CZTIC Electronic Technology Co., Ltd
 544741	1	17824	XCHENG HOLDING
+544781	1	20678	Quectel Wireless Solutions Co.,Ltd.
 5447cc	1	20609	Sagemcom Broadband SAS
 5447d3	1	17851	TSAT AS
 5447e8	1	18839	Syrotech Networks. Ltd.
@@ -37209,6 +37219,7 @@
 744f80	1	20629	shenzhen Amos Electronics Co.,Ltd
 74504e	1	18576	New H3C Technologies Co., Ltd
 7450cd	1	20018	HUAWEI TECHNOLOGIES CO.,LTD
+74518f	1	20678	Jiangsu Hetai Intelligent Control Technology Co., Ltd
 7451ba	1	17039	Xiaomi Communications Co Ltd
 7452ce	1	20321	Hengtai Intelligent Technology (Zhongshan) Co., LTD
 745327	1	16756	COMMSEN CO., LIMITED
@@ -42813,6 +42824,7 @@
 8c1f64cfd	4	19541	Smart-VOD Pty Ltd
 8c1f64cfe	4	20165	Instrument Development Group (IDG) at Johns Hopkins University
 8c1f64d00	4	20143	POLAK CZ s.r.o.
+8c1f64d01	4	20678	Emerson Rosemount Analytical
 8c1f64d02	4	19018	Flextronics International Kft
 8c1f64d07	4	19620	Talleres de Escoriaza SAU
 8c1f64d08	4	20588	Power Electronics Espana, S.L.
@@ -43254,6 +43266,7 @@
 8c1f64f88	4	20011	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
 8c1f64f8c	4	20252	BK LAB
 8c1f64f8e	4	20543	Chengdu Aplux Inteligence Technology Ltd.
+8c1f64f8f	4	20678	Dovideq Medical Systems BV
 8c1f64f90	4	19698	Enfabrica
 8c1f64f91	4	19508	Consonance
 8c1f64f92	4	19702	Vision Systems Safety Tech
@@ -46614,6 +46627,7 @@ a42a95	1	18954	D-Link International
 a42b8c	1	20388	NETGEAR
 a42bb0	1	16756	TP-LINK TECHNOLOGIES CO.,LTD.
 a42c08	1	16756	Masterwork Automodules
+a42df1	1	20678	Motorola Mobility LLC, a Lenovo Company
 a4307a	1	18174	Samsung Electronics Co.,Ltd
 a43111	1	16756	ZIV
 a43135	1	16756	Apple, Inc.
@@ -50654,6 +50668,7 @@ c4491b	1	20445	Apple, Inc.
 c4493e	1	20221	Motorola Mobility LLC, a Lenovo Company
 c449bb	1	16892	MITSUMI ELECTRIC CO.,LTD.
 c44ad0	1	16756	FIREFLIES SYSTEMS
+c44b31	1	20678	Cisco Systems, Inc
 c44b44	1	16756	Omniprint Inc.
 c44bd1	1	16756	Wallys Communications  Teachnologies Co.,Ltd.
 c44d84	1	18732	Cisco Systems, Inc
@@ -57111,6 +57126,7 @@ f485c6	1	16904	FDT Technologies
 f48771	1	16756	Infoblox
 f487c5	1	18317	Huawei Device Co., Ltd.
 f48918	1	20105	HUAWEI TECHNOLOGIES CO.,LTD
+f48974	1	20678	Cisco Systems, Inc
 f48b32	1	17039	Xiaomi Communications Co Ltd
 f48c50	1	17047	Intel Corporate
 f48ceb	1	18534	D-Link International
@@ -58016,6 +58032,7 @@ fc1d84	1	16756	Autobase
 fc1e16	1	16756	IPEVO corp
 fc1f19	1	18079	SAMSUNG ELECTRO MECHANICS CO., LTD.
 fc1fc0	1	16756	EURECAM
+fc2120	1	20678	Cisco Systems, Inc
 fc221c	1	19989	Shenzhen Xunman Technology Co., Ltd
 fc229c	1	16756	Han Kyung I Net Co.,Ltd.
 fc22d3	1	19166	FDSYS

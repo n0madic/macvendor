@@ -15497,6 +15497,7 @@
 0071c2	1	16825	PEGATRON CORPORATION
 0071cc	1	16963	Hon Hai Precision Ind. Co.,Ltd.
 007204	1	17695	Samsung Electronics Co., Ltd. ARTIK
+007230	1	20679	Nordic Semiconductor ASA
 007263	1	19664	Netis Technology Co., Ltd.
 007278	1	17528	Cisco Systems, Inc
 007298	1	15050	KAON MEDIA Co., Ltd.
@@ -15918,7 +15919,7 @@
 009058	1	17066	Ultra Electronics Command & Control Systems
 009059	1	16756	TELECOM DEVICE K.K.
 00905a	1	16756	DEARBORN GROUP, INC.
-00905b	1	16756	RAYMOND AND LAE ENGINEERING
+00905b	1	20679	Parameter LLC
 00905c	1	16756	EDMI
 00905d	1	16756	NETCOM SICHERHEITSTECHNIK GMBH
 00905e	1	16756	RAULAND-BORG CORPORATION
@@ -22966,6 +22967,7 @@
 2c1a05	1	18768	Cisco Systems, Inc
 2c1a31	1	16756	Electronics Company Limited
 2c1b3a	1	20206	Hui Zhou Gaoshengda Technology Co.,LTD
+2c1b8e	1	20679	BYD Semiconductor Co，Ltd
 2c1bc8	1	16756	Hunan Topview Network System CO.,LTD
 2c1cf6	1	17754	Alien Green LLC
 2c1cf7	1	20504	Apple, Inc.
@@ -26613,6 +26615,7 @@
 40e230	1	16756	AzureWave Technology Inc.
 40e317	1	20630	Extreme Networks, Inc.
 40e3d6	1	19808	Hewlett Packard Enterprise
+40e4c6	1	20679	Nokia
 40e64b	1	18653	Apple, Inc.
 40e730	1	16756	DEY Storage Systems, Inc.
 40e762	1	20437	Calix Inc.
@@ -37042,6 +37045,7 @@
 740ea4	1	19560	Apple, Inc.
 740edb	1	16756	Optowiz Co., Ltd
 7410e0	1	20078	Broadcom Limited
+7411a0	1	20679	Nokia
 7411b2	1	18977	Cisco Systems, Inc
 741213	1	19860	Linksys USA, Inc
 7412b3	1	18436	CHONGQING FUGUI ELECTRONICS CO.,LTD.
@@ -40975,6 +40979,7 @@
 8c1f642ad	4	20671	Sugihara Software and Electron Industry
 8c1f642af	4	20339	A-Best Co.,Lid.
 8c1f642b1	4	19719	U -MEI-DAH INT'L ENTERPRISE CO.,LTD.
+8c1f642b2	4	20679	Infosoft Digital Design and Services P L
 8c1f642b4	4	20103	Sonel S.A.
 8c1f642b6	4	18982	Stercom Power Solutions GmbH
 8c1f642b8	4	19405	Veinland GmbH
@@ -42641,6 +42646,7 @@
 8c1f64bf6	4	19767	Panoramic Power
 8c1f64bf7	4	20333	Intellicon Private Limited
 8c1f64bf8	4	19677	CDSI
+8c1f64bf9	4	20679	Hitachi energy India ltd
 8c1f64bfb	4	19006	TechArgos
 8c1f64bfc	4	19566	ASiS Technologies Pte Ltd
 8c1f64bfd	4	20161	INNOS TECHNOLOGIES
@@ -42669,6 +42675,7 @@
 8c1f64c1c	4	19502	Vektrex Electronics Systems, Inc.
 8c1f64c1e	4	19333	VA SYD
 8c1f64c1f	4	18787	Esys Srl
+8c1f64c21	4	20679	SPECIM, Spectral Imaging Oy Ltd
 8c1f64c22	4	20236	Pulcro.io LLC
 8c1f64c24	4	19011	Alifax S.r.l.
 8c1f64c26	4	20434	IRONWOOD ELECTRONICS
@@ -43913,6 +43920,7 @@
 901b0e	1	16756	Fujitsu Technology Solutions GmbH
 901c9e	1	20390	Alcatel-Lucent Enterprise
 901d27	1	19426	zte corporation
+901dff	1	20679	ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 901edd	1	16756	GREAT COMPUTER CORPORATION
 901f09	1	20427	Silicon Laboratories
 901f94	1	20651	TP-Link Systems Inc.
@@ -57000,6 +57008,7 @@ f44d30	1	16756	Elitegroup Computer Systems Co.,Ltd.
 f44d5c	1	19265	Zyxel Communications Corporation
 f44dad	1	19241	Cable Matters Inc.
 f44e05	1	16756	Cisco Systems, Inc
+f44e35	1	20679	Meta Platforms, Inc.
 f44e38	1	18683	Olibra LLC
 f44eb4	1	20266	CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 f44ee3	1	18667	Intel Corporate

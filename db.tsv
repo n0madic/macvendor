@@ -17925,7 +17925,9 @@
 04ea56	1	18079	Intel Corporate
 04eb40	1	17696	Cisco Systems, Inc
 04eca9	1	20683	IEEE Registration Authority
+04eca94	2	20684	Shanghai Vic Lab Intelligent Technology Co.,Ltd.
 04eca9a	2	20683	Leegiot Intelligent Technology Co., Ltd.
+04eca9d	2	20684	SPECTRONITE
 04ecbb	1	17482	Fiberhome Telecommunication Technologies Co.,LTD
 04ecd8	1	18748	Intel Corporate
 04ed33	1	18060	Intel Corporate
@@ -22771,6 +22773,7 @@
 28d3ea	1	18605	Huawei Device Co., Ltd.
 28d41e	1	20272	Barrot Technology Co.,Ltd.
 28d436	1	17274	Jiangsu dewosi electric co., LTD
+28d555	1	20684	vivo Mobile Communication Co., Ltd.
 28d576	1	16756	Premier Wireless, Inc.
 28d5b1	1	20305	Apple, Inc.
 28d6ec	1	20425	HUAWEI TECHNOLOGIES CO.,LTD
@@ -22803,6 +22806,7 @@
 28e71d	1	19153	Arista Networks
 28e794	1	16756	Microtime Computer Inc.
 28e7cf	1	17450	Apple, Inc.
+28e888	1	20684	Lingban Technology (Hangzhou) Co., Ltd
 28e971	1	20635	EM Microelectronic
 28e98e	1	17783	Mitsubishi Electric Corporation
 28ea0b	1	19347	Microsoft Corporation
@@ -28922,6 +28926,7 @@
 54083be	2	19391	Sinclair Technologies
 540853	1	19726	Qingdao Haier Technology Co.,Ltd
 5408d3	1	19985	Tianyi Telecom Terminals Company Limited
+5408f1	1	20684	SHENZHENLINGDECHUANGTECHNOLOGY CO.,LTD
 540910	1	18591	Apple, Inc.
 540929	1	19531	Inventus Power Eletronica do Brasil LTDA
 540955	1	16918	zte corporation
@@ -31479,6 +31484,7 @@
 6823b0	1	19670	Texas Instruments
 6823f4	1	19464	Shenzhen Jinlangxin Technology Co., Ltd
 682499	1	20243	Quectel Wireless Solutions Co.,Ltd.
+6824f9	1	20684	VIOLET AUDIO PTE. LTD.
 6825dd	1	20609	Espressif Inc.
 682624	1	19166	Ergatta
 68262a	1	18682	Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -42181,6 +42187,7 @@
 8c1f6494c	4	19108	BCMTECH
 8c1f6494e	4	19013	Monnit Corporation
 8c1f6494f	4	19789	Förster Technik GmbH
+8c1f64951	4	20684	MITSUBISHI ELECTRIC INDIA PVT. LTD.
 8c1f64953	4	19984	VAF Instruments BV
 8c1f64955	4	20587	Talleres de Escoriaza SAU
 8c1f64956	4	18913	Paulmann Licht GmbH
@@ -43287,6 +43294,7 @@
 8c1f64f86	4	18787	INFOSTECH Co., Ltd.
 8c1f64f87	4	19520	Fly Electronic (Shang Hai) Technology Co.,Ltd
 8c1f64f88	4	20011	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
+8c1f64f89	4	20684	DIGITALWAN
 8c1f64f8c	4	20252	BK LAB
 8c1f64f8e	4	20543	Chengdu Aplux Inteligence Technology Ltd.
 8c1f64f8f	4	20678	Dovideq Medical Systems BV
@@ -45309,6 +45317,7 @@
 98a14a	1	19916	Quectel Wireless Solutions Co.,Ltd.
 98a2c0	1	19105	Cisco Systems, Inc
 98a316	1	20609	Espressif Inc.
+98a33c	1	20684	Shenzhen Cultraview Digital Technology Co., Ltd
 98a375	1	20469	Huawei Device Co., Ltd.
 98a404	1	17577	Ericsson AB
 98a40e	1	17173	Snap, Inc.
@@ -57545,6 +57554,7 @@ f83376	1	16756	Good Mind Innovation Co., Ltd.
 f83441	1	17274	Intel Corporate
 f83451	1	19290	Comcast-SRL
 f8345a	1	19213	Hitron Technologies. Inc
+f834e5	1	20684	vivo Mobile Communication Co., Ltd.
 f83553	1	16756	Magenta Research Ltd.
 f835dd	1	16756	Gemtek Technology Co., Ltd.
 f8369b	1	17634	Texas Instruments

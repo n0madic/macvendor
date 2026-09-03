@@ -17038,6 +17038,7 @@
 00d0fe	1	16756	ASTRAL POINT
 00d0ff	1	16756	Cisco Systems, Inc
 00d11c	1	16756	ACETEL
+00d18c	1	20698	Guang zhou Xradio Technology Co., Ltd
 00d279	1	18079	VINGROUP JOINT STOCK COMPANY
 00d2b1	1	18117	TPV Display Technology (Xiamen) Co.,Ltd.
 00d318	1	17173	SPG Controls
@@ -19167,6 +19168,7 @@
 0ce936	1	16756	ELIMOS srl
 0ce99a	1	17919	ATLS ALTEC
 0cea14	1	19851	Ubiquiti Inc
+0ceabf	1	20699	Mellanox Technologies, Inc.
 0ceac9	1	20012	Commscope
 0ceb25	1	20348	Power Plus Communications AG
 0cec80	1	18334	Texas Instruments
@@ -24606,6 +24608,7 @@
 34f6d2	1	16756	Panasonic Taiwan Co.,Ltd.
 34f716	1	18577	TP-LINK TECHNOLOGIES CO.,LTD.
 34f86e	1	18940	Parker Hannifin Corporation
+34f890	1	20698	Nanjing RISC-V Institute Co., Ltd.
 34f8dd	1	20586	Apple, Inc.
 34f8e7	1	17783	Cisco Systems, Inc
 34f968	1	16756	ATEK Products, LLC
@@ -27479,6 +27482,7 @@
 486fd2	1	16756	StorSimple Inc
 48701e	1	18544	Texas Instruments
 48706f	1	19081	HUAWEI TECHNOLOGIES CO.,LTD
+4870d4	1	20699	Cisco Meraki
 487119	1	16756	SGB GROUP LTD.
 487310	1	19131	Juniper Networks
 487397	1	18759	New H3C Technologies Co., Ltd
@@ -28287,6 +28291,7 @@
 4ce705	1	19334	Siemens Industrial Automation Products Ltd., Chengdu
 4ce933	1	16756	RailComm, LLC
 4ce9e4	1	17975	New H3C Technologies Co., Ltd
+4cea27	1	20698	Shenzhen Skyworth Digital  Technology  CO., Ltd
 4cea41	1	19567	IEEE Registration Authority
 4cea410	2	19569	Airflying
 4cea411	2	19573	HawkEye Technology Co.,Ltd
@@ -28438,6 +28443,7 @@
 5026ef	1	19236	Murata Manufacturing Co., Ltd.
 5027a9	1	19222	eero inc.
 5027c7	1	16756	TECHNART Co.,Ltd
+5027e4	1	20698	Marvell Semiconductors
 50284a	1	19013	Intel Corporate
 502873	1	18445	Huawei Device Co., Ltd.
 50294d	1	16756	NANJING IOT SENSOR TECHNOLOGY CO,LTD
@@ -29427,6 +29433,7 @@
 580ad4	1	18802	Apple, Inc.
 580d0d	1	20032	GREE ELECTRIC APPLIANCES, INC. OF ZHUHAI
 580e85	1	20628	Sagemcom Broadband SAS
+580ee6	1	20699	Mellanox Technologies, Inc.
 580fa5	1	20586	Apple, Inc.
 581031	1	19368	Hon Hai Precision IND.CO.,LTD
 58108c	1	16756	Intelbras
@@ -37327,6 +37334,7 @@
 745bc5c	2	17881	ComNot
 745bc5d	2	17893	CELYSS SAS
 745bc5e	2	17893	Qingdao Wintec System Co., Ltd
+745c2e	1	20698	Honor Device Co., Ltd.
 745c4b	1	17328	GN Audio A/S
 745c9f	1	16861	TCT mobile ltd
 745cfa	1	18789	Shenzhen Shunrui Gaojie Technology Co., Ltd.
@@ -40697,6 +40705,7 @@
 8c1f6409e	4	19404	IWS Global Pty Ltd
 8c1f6409f	4	18961	MB connect line GmbH Fernwartungssysteme
 8c1f640a0	4	19782	TECHNIWAVE
+8c1f640a1	4	20698	Televic Rail GmbH
 8c1f640a2	4	20334	BEST
 8c1f640a3	4	20525	Fischer & Connectors SA
 8c1f640a4	4	19424	Dynamic Research, Inc.
@@ -40959,6 +40968,7 @@
 8c1f6421c	4	18759	LLC EMS-Expert
 8c1f6421e	4	19585	The Bionetics Corporation
 8c1f64221	4	19821	YUANSIANG OPTOELECTRONICS CO.,LTD.
+8c1f64223	4	20698	Loonson Technology Corporation Limited
 8c1f64224	4	18961	PHB Eletronica Ltda.
 8c1f64226	4	20385	Colossus Computing, Inc.
 8c1f64227	4	18830	Digilens
@@ -41207,7 +41217,7 @@
 8c1f64380	4	19653	YSLAB
 8c1f64381	4	20570	TimeMachines Inc.
 8c1f64382	4	18816	Shenzhen ROLSTONE Technology Co., Ltd
-8c1f64383	4	19482	Tristate Electronic Mfg
+8c1f64383	4	20698	Urbidermis, S.L. (VAT ESB66435017)
 8c1f64384	4	19527	Tango Tango
 8c1f64385	4	18850	Multilane Inc
 8c1f64387	4	19235	OMNIVISION
@@ -41661,6 +41671,7 @@
 8c1f64601	4	19081	Camius
 8c1f64602	4	20588	Power Electronics Espana, S.L.
 8c1f64603	4	18965	Fuku Energy Technology Co., Ltd.
+8c1f64604	4	20698	LeafLabs, LLC
 8c1f64605	4	19459	Xacti Corporation
 8c1f64606	4	20433	NodOn SAS
 8c1f64607	4	20249	Nanjing Aotong Intelligent Technology Co.,Ltd
@@ -41840,6 +41851,7 @@
 8c1f646f7	4	19740	EddyWorks Co.,Ltd
 8c1f646f8	4	19725	PROIKER TECHNOLOGY SL
 8c1f646f9	4	19003	ANDDORO LLC
+8c1f646fa	4	20698	IDNEO TECHNOLOGIES,S.A.U.
 8c1f646fb	4	19905	Exatron Servers Manufacturing Pvt Ltd
 8c1f646fc	4	18949	HM Systems A/S
 8c1f64700	4	19236	QUANTAFLOW
@@ -44432,6 +44444,7 @@
 90dd5d	1	17528	Apple, Inc.
 90de80	1	18515	Shenzhen Century Xinyang Technology Co., Ltd
 90df06	1	20495	Ciena Corporation
+90df46	1	20698	Shanghai Tosun Technology Ltd
 90df7d	1	18985	Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 90dfb7	1	16756	s.m.s smart microwave sensors GmbH
 90dffb	1	16756	HOMERIDER SYSTEMS
@@ -47212,6 +47225,7 @@ a4ed43d	2	17696	Brand New Brand Nordic AB
 a4ed43e	2	17696	TOEC TECHNOLOGY CO.，LTD.
 a4ed4e	1	20012	Commscope
 a4ee57	1	17047	Seiko Epson Corporation
+a4ef0c	1	20699	Mellanox Technologies, Inc.
 a4ef15	1	20619	AltoBeam Inc.
 a4ef52	1	16756	Telewave Co., Ltd.
 a4f00f	1	20609	Espressif Inc.
@@ -54367,6 +54381,7 @@ dcb808	1	20630	Extreme Networks, Inc.
 dcb87d	1	20519	Hewlett Packard Enterprise
 dcbb3d	1	20630	Extreme Networks, Inc.
 dcbb96	1	18769	Full Solution Telecom
+dcbbfa	1	20699	Cisco Meraki
 dcbd7a	1	18340	Guangzhou Shiyuan Electronic Technology Company Limited
 dcbdcc	1	19461	Quectel Wireless Solutions Co.,Ltd.
 dcbe04	1	19734	Texas Instruments
@@ -54824,6 +54839,7 @@ e0a8b8	1	16876	Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
 e0aa96	1	17274	Samsung Electronics Co.,Ltd
 e0aab0	1	18122	SUNTAILI ENTERPRISE CO. LTD,
 e0aadb	1	17389	Nanjing PANENG Technology Development Co.,Ltd
+e0abc3	1	20699	Mellanox Technologies, Inc.
 e0abfe	1	16756	Orb Networks, Inc.
 e0accb	1	16756	Apple, Inc.
 e0acf1	1	16756	Cisco Systems, Inc
@@ -56349,11 +56365,13 @@ ecba34	1	20691	IEEE Registration Authority
 ecba340	2	20693	femrice
 ecba341	2	20692	Heizomat Gerätebau GmbH
 ecba342	2	20690	Safety electronic technology(huizhou) Co.,Ltd
+ecba343	2	20698	Sterlite Technologies Limited
 ecba345	2	20693	Aeon Super Ai Inc.
 ecba346	2	20697	Zhejiang Wanyou Intelligent Technology Co.,Ltd.
 ecba347	2	20692	MEVA AVİYONİK SİSTEMLER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.
 ecba349	2	20697	Digitus Biometrics, Inc.
 ecba34b	2	20697	Qasky Technology Co.,Ltd.
+ecba34c	2	20698	Newtech Synergy Systems Pvt Ltd
 ecba34d	2	20692	Scenario Automation
 ecbafe	1	16756	GIROPTIC
 ecbb78	1	20285	Cisco Systems, Inc
@@ -57392,6 +57410,7 @@ f4a59d	1	18166	Huawei Device Co., Ltd.
 f4a739	1	17173	Juniper Networks
 f4a80d	1	18633	Wistron InfoComm(Kunshan)Co.,Ltd.
 f4a997	1	17218	CANON INC.
+f4a9a7	1	20698	Honor Device Co., Ltd.
 f4aad0	1	19403	OHSUNG
 f4ab5c	1	20269	Quectel Wireless Solutions Co.,Ltd.
 f4acc1	1	16756	Cisco Systems, Inc

@@ -15827,6 +15827,7 @@
 008df4c	2	19649	Creative Security Technology Inc.
 008df4d	2	19649	ID TECH SOLUTIONS PVT LTD
 008df4e	2	19649	Relay, Inc.
+008e16	1	20700	Milwaukee Tool
 008e73	1	16802	Cisco Systems, Inc
 008ef2	1	20388	NETGEAR
 009000	1	16756	DIAMOND MULTIMEDIA
@@ -17686,6 +17687,7 @@
 04885f	1	17975	HUAWEI TECHNOLOGIES CO.,LTD
 04888c	1	16756	Eifelwerk Butler Systeme GmbH
 0488e2	1	16756	Beats Electronics LLC
+04896d	1	20700	New H3C Technologies Co., Ltd
 048a15	1	17254	Avaya Inc
 048ae1	1	17559	FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 048b42	1	17310	Skspruce Technologies
@@ -19696,6 +19698,7 @@
 10da43	1	20388	NETGEAR
 10da49	1	19013	Huawei Device Co., Ltd.
 10da63	1	19844	Apple, Inc.
+10dba2	1	20700	Texas Instruments
 10dc4a	1	17928	Fiberhome Telecommunication Technologies Co.,LTD
 10dcb6	1	18090	IEEE Registration Authority
 10dcb60	2	19136	Apex Supply Chain Technologies
@@ -20077,6 +20080,7 @@
 14a454	1	20377	Mist Systems, Inc.
 14a51a	1	17021	HUAWEI TECHNOLOGIES CO.,LTD
 14a62c	1	16756	S.M. Dezac S.A.
+14a6b9	1	20700	Samsung Electronics Co.,Ltd
 14a72b	1	17511	currentoptronics Pvt.Ltd
 14a78b	1	17039	Zhejiang Dahua Technology Co., Ltd.
 14a86b	1	16756	ShenZhen Telacom Science&Technology Co., Ltd
@@ -20126,6 +20130,7 @@
 14ba88	1	20692	Zhejiang Uniview Technologies Co.,Ltd.
 14baaf	1	20073	BKS GmbH
 14bb6e	1	17218	Samsung Electronics Co.,Ltd
+14bbcc	1	20700	Texas Instruments
 14bc68	1	20285	Cisco Systems, Inc
 14bd61	1	17173	Apple, Inc.
 14befc	1	19844	Nanjing Jiahao Technology Co., Ltd.
@@ -20882,6 +20887,7 @@
 1c3477	1	16756	Innovation Wireless
 1c34da	1	18073	Mellanox Technologies, Inc.
 1c34f1	1	18937	Silicon Laboratories
+1c3576	1	20700	Samsung Electronics Co.,Ltd
 1c35f1	1	16756	NEW Lift Neue Elektronische Wege Steuerungsbau GmbH
 1c36bb	1	17370	Apple, Inc.
 1c37bf	1	16756	Cloudium Systems Ltd.
@@ -21940,6 +21946,7 @@
 241e2b	1	19706	Zhejiang Cainiao Supply Chain Management Co., Ltd
 241eeb	1	16756	Apple, Inc.
 241f2c	1	16756	Calsys, Inc.
+241f3a	1	20700	Silicon Laboratories
 241f49	1	20599	NXP Semiconductors Taiwan Ltd.
 241fa0	1	16756	HUAWEI TECHNOLOGIES CO.,LTD
 241fbd	1	20630	Extreme Networks, Inc.
@@ -24924,6 +24931,7 @@
 389052	1	18555	HUAWEI TECHNOLOGIES CO.,LTD
 3890a5	1	17328	Cisco Systems, Inc
 3890af	1	19620	zte corporation
+3890fe	1	20700	New H3C Technologies Co., Ltd
 389148	1	20180	zte corporation
 3891b7	1	19076	Cisco Systems, Inc
 3891d5	1	16756	Hangzhou H3C Technologies Co., Limited
@@ -30631,6 +30639,7 @@
 6045e8	1	20111	Arcadyan Corporation
 604616	1	16756	XIAMEN VANN INTELLIGENT CO., LTD
 60464c	1	20473	Ligent Tech,Inc
+6046d4	1	20700	Texas Instruments
 60470a	1	20458	Shenzhen Zenith Intelligent Technology Co., Ltd.
 604762	1	17254	Beijing Sensoro Technology Co.,Ltd.
 6047d4	1	16756	FORICS Electronic Technology Co., Ltd.
@@ -31298,6 +31307,7 @@
 649d99	1	17817	FS COM INC
 649e31	1	18829	Beijing Xiaomi Mobile Software Co., Ltd
 649e58	1	20601	MM Devices Pty. Ltd.
+649ef1	1	20700	Texas Instruments
 649ef3	1	16756	Cisco Systems, Inc
 649ff7	1	16756	Kone OYj
 64a0ac	1	20220	Adtran Inc
@@ -37175,6 +37185,7 @@
 741ae0c	2	17370	bistos.co.ltd
 741ae0d	2	17370	Voltaware Services Limited
 741ae0e	2	17370	ITS Partner (O.B.S) S.L.
+741b13	1	20700	New H3C Technologies Co., Ltd
 741b39	1	20094	CONVEY INDIA PRIVATE LIMITED
 741bb2	1	16756	Apple, Inc.
 741c27	1	17310	ITEL MOBILE LIMITED
@@ -38375,6 +38386,7 @@
 7c162a	1	20571	Huawei Device Co., Ltd.
 7c1689	1	20609	Sagemcom Broadband SAS
 7c1779	1	19293	EM Microelectronic
+7c1795	1	20700	New H3C Technologies Co., Ltd
 7c18cd	1	16756	E-TRON Co.,Ltd.
 7c1960	1	20690	HUAWEI TECHNOLOGIES CO.,LTD
 7c19e3	1	20647	Google, Inc.
@@ -42591,6 +42603,7 @@
 8c1f64b0e	4	20459	Watthour Engineering Co., Inc.
 8c1f64b0f	4	19187	HKC Security Ltd.
 8c1f64b10	4	18926	MTU Aero Engines AG
+8c1f64b12	4	20700	Hongtai Intelligent Technology
 8c1f64b13	4	19124	Abode Systems Inc
 8c1f64b14	4	19278	Murata Manufacturing CO., Ltd.
 8c1f64b15	4	20308	Pneumax Spa
@@ -48355,6 +48368,7 @@ b04fc3	1	18080	Shenzhen NVC Cloud Technology Co., Ltd.
 b050bc	1	16756	SHENZHEN BASICOM ELECTRONIC CO.,LTD.
 b0518e	1	16756	Holl technology CO.Ltd.
 b05216	1	17039	Hon Hai Precision Ind. Co.,Ltd.
+b0521f	1	20700	Dyson Limited
 b05246	1	19620	NXP Semiconductor (Tianjin) LTD.
 b05365	1	17684	China Mobile IOT Company Limited
 b05476	1	19660	Samsung Electronics Co.,Ltd
@@ -49270,6 +49284,7 @@ b8208e	1	19123	Panasonic Connect Co., Ltd.
 b820e7	1	16756	Guangzhou Horizontal Information & Network Integration Co. Ltd
 b8211c	1	19040	Apple, Inc.
 b8220c	1	19943	Apple, Inc.
+b82227	1	20700	Texas Instruments
 b8224f	1	18682	Sichuan Tianyi Comheart Telecom Co.,LTD
 b82410	1	16756	Magneti Marelli Slovakia s.r.o.
 b8241a	1	16756	SWEDA INFORMATICA LTDA
@@ -49735,6 +49750,7 @@ bc1695	1	18262	zte corporation
 bc16f5	1	16756	Cisco Systems, Inc
 bc17b8	1	18373	Intel Corporate
 bc1896	1	19538	HUAWEI TECHNOLOGIES CO.,LTD
+bc192f	1	20700	Texas Instruments
 bc1a67	1	16756	YF Technology Co., Ltd
 bc1ae4	1	18166	Huawei Device Co., Ltd.
 bc1c81	1	17254	Sichuan iLink Technology Co., Ltd.
@@ -50550,6 +50566,7 @@ c0b47d	1	18166	Huawei Device Co., Ltd.
 c0b550	1	20431	Broadcom Limited
 c0b5cd	1	18139	Huawei Device Co., Ltd.
 c0b5d7	1	17817	CHONGQING FUGUI ELECTRONICS CO.,LTD.
+c0b5dd	1	20700	Silicon Laboratories
 c0b658	1	17528	Apple, Inc.
 c0b6f9	1	17607	Intel Corporate
 c0b713	1	16756	Beijing Xiaoyuer Technology Co. Ltd.
@@ -50841,6 +50858,7 @@ c44b44	1	16756	Omniprint Inc.
 c44bd1	1	16756	Wallys Communications  Teachnologies Co.,Ltd.
 c44d84	1	18732	Cisco Systems, Inc
 c44e1f	1	16756	BlueN
+c44e5d	1	20700	Texas Instruments
 c44eac	1	16756	Shenzhen Shiningworth Technology Co., Ltd.
 c44f33	1	17759	Espressif Inc.
 c44f5f	1	19586	Huawei Device Co., Ltd.
@@ -50876,6 +50894,7 @@ c4600a	1	19922	Huaqin Technology Co.LTD
 c46026	1	19437	SKY UK LIMITED
 c46044	1	16756	Everex Electronics Limited
 c4618b	1	17450	Apple, Inc.
+c4619a	1	20700	Texas Instruments
 c461c7	1	19168	Microsoft Corporation
 c46237	1	19649	sunweit industrial limited
 c4626b	1	16756	ZPT Vigantice
@@ -55861,6 +55880,7 @@ e8d5a1	1	20606	Earda Technologies co Ltd
 e8d765	1	18583	HUAWEI TECHNOLOGIES CO.,LTD
 e8d775	1	19313	HUAWEI TECHNOLOGIES CO.,LTD
 e8d819	1	17370	AzureWave Technology Inc.
+e8d81c	1	20700	Quectel Wireless Solutions Co.,Ltd.
 e8d87e	1	19059	Amazon Technologies Inc.
 e8d8d1	1	18200	HP Inc.
 e8da00	1	18689	Kivo Technology, Inc.
@@ -56375,6 +56395,7 @@ ecba340	2	20693	femrice
 ecba341	2	20692	Heizomat Gerätebau GmbH
 ecba342	2	20690	Safety electronic technology(huizhou) Co.,Ltd
 ecba343	2	20698	Sterlite Technologies Limited
+ecba344	2	20700	CITIZEN T.I.C. CO., LTD.
 ecba345	2	20693	Aeon Super Ai Inc.
 ecba346	2	20697	Zhejiang Wanyou Intelligent Technology Co.,Ltd.
 ecba347	2	20692	MEVA AVİYONİK SİSTEMLER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.
@@ -56384,6 +56405,7 @@ ecba34a	2	20699	Shenzhen Yidao Intelligent Technology Co.,Ltd.
 ecba34b	2	20697	Qasky Technology Co.,Ltd.
 ecba34c	2	20698	Newtech Synergy Systems Pvt Ltd
 ecba34d	2	20692	Scenario Automation
+ecba34e	2	20700	Green ACS Sp. z o.o.
 ecbafe	1	16756	GIROPTIC
 ecbb78	1	20285	Cisco Systems, Inc
 ecbbae	1	16756	Digivoice Tecnologia em Eletronica Ltda

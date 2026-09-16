@@ -19531,6 +19531,7 @@
 107c61	1	19649	ASUSTek COMPUTER INC.
 107d1a	1	17173	Dell Inc.
 107dc8	1	20347	Apple, Inc.
+107e59	1	20712	Calix Inc.
 1081b4	1	17740	Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
 10823d	1	19139	Ruijie Networks Co.,LTD
 108286	1	17885	Luxshare Precision Industry Co.,Ltd
@@ -24174,6 +24175,7 @@
 342c8e	1	19958	Ufispace Co., LTD.
 342cc4	1	17684	Compal Broadband Networks, Inc.
 342d0d	1	17274	Samsung Electronics Co.,Ltd
+342d0f	1	20711	zte corporation
 342da3	1	19661	Fiberhome Telecommunication Technologies Co.,LTD
 342eb6	1	17643	HUAWEI TECHNOLOGIES CO.,LTD
 342eb7	1	18339	Intel Corporate
@@ -24461,6 +24463,7 @@
 34c0f9	1	16892	Rockwell Automation
 34c103	1	18583	Hangzhou Huamu Technology Co.,Ltd.
 34c1e9	1	20158	Ulak Communications Inc.
+34c229	1	20712	Calix Inc.
 34c232	1	20532	Samsung Electronics Co.,Ltd
 34c386	1	20635	Apple, Inc.
 34c3ac	1	16963	Samsung Electronics Co.,Ltd
@@ -41306,6 +41309,7 @@
 8c1f643ba	4	20031	MITSUBISHI ELECTRIC INDIA PVT. LTD.
 8c1f643bb	4	19370	Clausal Computing Oy
 8c1f643bd	4	19833	Oriux
+8c1f643be	4	20711	Adit Innovation Private Limited
 8c1f643c0	4	19933	SNEK
 8c1f643c1	4	19649	Suzhou Lianshichuangzhi Technology Co., Ltd
 8c1f643c2	4	19929	Samuel Cosgrove
@@ -41357,6 +41361,7 @@
 8c1f64407	4	20139	broadtek
 8c1f64408	4	19387	techone system
 8c1f6440a	4	19949	Enki Multimedia
+8c1f6440b	4	20712	WHOI-AComms
 8c1f6440c	4	19005	Sichuan Aiyijan Technology Company Ltd.
 8c1f6440d	4	19368	PROFITT Ltd
 8c1f6440e	4	19013	Baker Hughes EMEA
@@ -47422,6 +47427,7 @@ a83fa1c	2	17734	Laonz Co.,Ltd
 a83fa1d	2	17734	Shenzhen BIO I/E Co.,Ltd
 a83fa1e	2	17734	Guangzhou Navigateworx Technologies Co., Limited
 a8400b	1	19186	Visteon Corporation
+a84021	1	20711	zte corporation
 a84025	1	18327	Oxide Computer Company
 a84041	1	16756	Dragino Technology Co., Limited
 a8407d	1	18515	GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -52226,10 +52232,14 @@ cc8130	1	20544	Intelbras
 cc817d	1	19790	Apple, Inc.
 cc81da	1	17431	Phicomm (Shanghai) Co., Ltd.
 cc827b	1	20705	IEEE Registration Authority
+cc827b0	2	20711	Tedee Sp. z o.o.
 cc827b2	2	20706	ACS Motion Control
 cc827b5	2	20706	TALENTPROS SYSTEM INNOVATION CO., LTD.
+cc827b6	2	20711	UNIWORLD VISION PVT LTD
+cc827b7	2	20711	Opsys Tech Inc
 cc827b9	2	20704	Ecotron Corporation
 cc827ba	2	20704	Converging Systems Inc.
+cc827bb	2	20711	iGentAI Computing Technology(Shenzhen) Co., Ltd.
 cc827bc	2	20706	RNL Technology(Shenzhen) Co., Ltd
 cc827f	1	19003	Advantech Technology (CHINA) Co., Ltd.
 cc82eb	1	17122	KYOCERA CORPORATION
@@ -55685,6 +55695,7 @@ e85497	1	19761	Samsung Electronics Co.,Ltd
 e85540	1	19656	WUXI FUNIDE DIGITAL CO.,LTD
 e855b4	1	16756	SAI Technology Inc.
 e85659	1	16825	Advanced-Connectek Inc.
+e8567a	1	20711	zte corporation
 e856d6	1	16756	NCTech Ltd
 e85a8b	1	18121	Xiaomi Communications Co Ltd
 e85aa7	1	16756	LLC Emzior

@@ -4593,7 +4593,7 @@
 00120c	1	16756	CE-Infosys Pte Ltd
 00120d	1	16756	Advanced Telecommunication Technologies, Inc.
 00120e	1	16756	AboCom
-00120f	1	16756	IEEE 802.3
+00120f	1	20716	IEEE 802.3 Working Group
 001210	1	16756	WideRay Corp
 001211	1	16756	Protechna Herbst GmbH & Co. KG
 001212	1	16756	PLUS  Corporation
@@ -25324,6 +25324,7 @@
 3c219c	1	18859	Intel Corporate
 3c227f	1	20613	Quectel Wireless Solutions Co.,Ltd.
 3c22fb	1	18149	Apple, Inc.
+3c2319	1	20715	final Inc.
 3c240a	1	20348	Huawei Device Co., Ltd.
 3c24f0	1	17559	IEEE Registration Authority
 3c24f00	2	17577	SHENZHEN PINSIDA TECHNOLOGY CO.,LTD.
@@ -31412,6 +31413,7 @@
 64c403	1	18730	Quectel Wireless Solutions Co.,Ltd.
 64c582	1	19013	China Mobile Group Device Co.,Ltd.
 64c5aa	1	16756	South African Broadcasting Corporation
+64c5f9	1	20715	SHENZHEN TECNO TECHNOLOGY
 64c667	1	16756	Barnes&Noble
 64c6af	1	16756	AXERRA Networks Ltd
 64c6d2	1	19277	Seiko Epson Corporation
@@ -32790,6 +32792,7 @@
 706979c	2	18347	Rivian Automotive LLC
 706979d	2	18349	FREUND ELEKTRONIKA D.O.O., IP-INTEGRA TECHNOLOGIES
 706979e	2	18354	BAS-IP LP
+706a25	1	20716	Ningbo Sanxing Smart Electric Co.，Ltd
 706ac9	1	19823	zte corporation
 706bb9	1	17328	Cisco Systems, Inc
 706d15	1	17740	Cisco Systems, Inc
@@ -43472,7 +43475,7 @@
 8c1f64f7b	4	20587	XPS ELETRONICA LTDA
 8c1f64f7c	4	19818	General Dynamics IT
 8c1f64f7d	4	19786	RPG INFORMATICA, S.A.
-8c1f64f7e	4	20712	Suzhou Deyi Automotive Electronice Co., Ltd.
+8c1f64f7e	4	20716	Suzhou Deyi Automotive Electronics Co., Ltd.
 8c1f64f7f	4	19818	Vision Systems Safety Tech
 8c1f64f80	4	20327	Vinfast Trading and Production JSC
 8c1f64f82	4	20592	SEORIM TECHNOLOGY
@@ -48373,6 +48376,7 @@ b02a43	1	17695	Google, Inc.
 b02b64	1	20508	Cisco Systems, Inc
 b02eba	1	20322	Earda Technologies co Ltd
 b02ee0	1	19586	Huawei Device Co., Ltd.
+b02f20	1	20716	VIM technology CO., LTD.
 b03055	1	17925	China Mobile IOT Company Limited
 b030c8	1	18419	Teal Drones, Inc.
 b03226	1	19872	Keheng Information Industry Co., Ltd.
@@ -52268,6 +52272,7 @@ cc827b0	2	20711	Tedee Sp. z o.o.
 cc827b1	2	20713	Cron AI
 cc827b2	2	20706	ACS Motion Control
 cc827b3	2	20713	Shenzhen Fengruixiang Intelligent Technology Co., Ltd.
+cc827b4	2	20716	Mistlabs Limited
 cc827b5	2	20706	TALENTPROS SYSTEM INNOVATION CO., LTD.
 cc827b6	2	20711	UNIWORLD VISION PVT LTD
 cc827b7	2	20711	Opsys Tech Inc
@@ -56831,6 +56836,7 @@ f04bf2	1	16756	JTECH Communications, Inc.
 f04cd5	1	17559	Maxlinear, Inc
 f04da2	1	18079	Dell Inc.
 f04dd4	1	20578	Sagemcom Broadband SAS
+f04e35	1	20715	Pica8 Software Inc
 f04ea4	1	20371	HP Inc.
 f04f7c	1	19221	Amazon Technologies Inc.
 f04fe0	1	20461	Vizio, Inc
@@ -58373,6 +58379,7 @@ fc1a46	1	19892	Samsung Electronics Co.,Ltd
 fc1bd1	1	18185	HUAWEI TECHNOLOGIES CO.,LTD
 fc1bff	1	16756	V-ZUG AG
 fc1ca1	1	18122	Nokia
+fc1ce6	1	20716	PSG Germany GmbH
 fc1d2a	1	18835	vivo Mobile Communication Co., Ltd.
 fc1d3a	1	19339	HUAWEI TECHNOLOGIES CO.,LTD
 fc1d43	1	18015	Apple, Inc.

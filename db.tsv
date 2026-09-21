@@ -7982,7 +7982,7 @@
 001e80	1	20098	Icotera A/S
 001e81	1	16756	CNB Technology Inc.
 001e82	1	16756	SanDisk Corporation
-001e83	1	19426	LAN/MAN Standards Association (LMSC)
+001e83	1	20717	IEEE 802.1 Working Group
 001e84	1	16756	Pika Technologies Inc.
 001e85	1	16756	Lagotek Corporation
 001e86	1	16756	MEL Co.,Ltd.
@@ -15722,7 +15722,7 @@
 0080bf	1	16756	TAKAOKA ELECTRIC MFG. CO. LTD.
 0080c0	1	16756	PENRIL DATACOMM
 0080c1	1	16756	LANEX CORPORATION
-0080c2	1	18902	IEEE 802.1 Chair
+0080c2	1	20717	IEEE 802.1 Working Group
 0080c3	1	16756	BICC INFORMATION SYSTEMS & SVC
 0080c4	1	16756	DOCUMENT TECHNOLOGIES, INC.
 0080c5	1	16756	NOVELLCO DE MEXICO
@@ -19783,6 +19783,7 @@
 1402ec	1	19808	Hewlett Packard Enterprise
 140338	1	20658	HUAWEI TECHNOLOGIES CO.,LTD
 140467	1	16756	SNK Technologies Co.,Ltd.
+140498	1	20717	Apple, Inc.
 140589	1	20279	Motorola Mobility LLC, a Lenovo Company
 14064c	1	19578	Vogl Electronic GmbH
 1406a7	1	19990	CRESYN
@@ -20127,6 +20128,7 @@
 14b457	1	17887	Silicon Laboratories
 14b484	1	16756	Samsung Electronics Co.,Ltd
 14b5cd	1	20021	Liteon Technology Corporation
+14b653	1	20717	Apple, Inc.
 14b6eb	1	20623	CJ intelligent technology LTD.
 14b73d	1	16756	ARCHEAN Technologies
 14b7f8	1	19473	Vantiva USA LLC
@@ -20178,6 +20180,7 @@
 14d424	1	19144	AzureWave Technology Inc.
 14d4fe	1	20012	Commscope
 14d537	1	20586	All Inspire Health Inc.
+14d55c	1	20717	Apple, Inc.
 14d5c6	1	20315	slash dev slash agents, inc
 14d64d	1	16756	D-Link International
 14d67c	1	20417	Uncord Technologies Private Limited
@@ -20307,6 +20310,7 @@
 1831bf	1	17482	ASUSTek COMPUTER INC.
 183219	1	18601	EM Microelectronic
 1832a2	1	16756	LAON TECHNOLOGY CO., LTD.
+1832de	1	20717	Apple, Inc.
 183386	1	20151	HUAWEI TECHNOLOGIES CO.,LTD
 18339d	1	16756	Cisco Systems, Inc
 183451	1	17450	Apple, Inc.
@@ -21685,6 +21689,7 @@
 20898a	1	19396	Shenzhen Skyworth Digital  Technology  CO., Ltd
 208b37	1	16772	Skyworth Digital Technology(Shenzhen) Co.,Ltd
 208bd1	1	18990	NXP Semiconductor (Tianjin) LTD.
+208c0a	1	20717	Apple, Inc.
 208c47	1	18800	Tenstorrent Inc
 208c86	1	18955	HUAWEI TECHNOLOGIES CO.,LTD
 20906f	1	16756	Shenzhen Tencent Computer System Co., Ltd.
@@ -23878,6 +23883,7 @@
 30a452	1	18401	Arrival Elements BV
 30a612	1	18669	ShenZhen Hugsun Technology Co.,Ltd.
 30a771	1	20529	Jiang Su Fulian Communication Technology Co.,Ltd
+30a7f5	1	20717	Apple, Inc.
 30a889	1	18079	DECIMATOR DESIGN
 30a8db	1	19426	Sony Corporation
 30a998	1	18464	Huawei Device Co., Ltd.
@@ -24339,6 +24345,7 @@
 348137	1	16756	UNICARD SA
 3481c4	1	16756	AVM GmbH
 3481f4	1	16756	SST Taiwan Ltd.
+348296	1	20717	Apple, Inc.
 3482c5	1	18377	Samsung Electronics Co.,Ltd
 3482de	1	16772	Kiio Inc
 348302	1	16756	iFORCOM Co., Ltd
@@ -25248,7 +25255,7 @@
 3a765d	0	19210	NewCoSemi(Beijing) Technology Co., Ltd
 3a78ca	0	17940	SoundTalks NV
 3a796e	0	19131	LX Semicon co.,Ltd.
-3aa3f8	0	18902	IEEE 802.1 Chair
+3aa3f8	0	20717	IEEE 802.1 Working Group
 3aba37	0	16856	Cirrent
 3ac6cf	0	19996	Parakey AB
 3acfc5	0	17545	Quickline AG
@@ -25356,6 +25363,7 @@
 3c2c94	1	16756	杭州德澜科技有限公司（HangZhou Delan Technology Co.,Ltd）
 3c2c99	1	17431	Edgecore Networks Corporation
 3c2ca6	1	19208	Beijing Xiaomi Electronics Co.,Ltd
+3c2ccd	1	20717	Apple, Inc.
 3c2d9e	1	19653	Vantiva - Connected Home
 3c2db7	1	16756	Texas Instruments
 3c2ef5	1	19676	Silicon Laboratories
@@ -26857,6 +26865,7 @@
 4423aa	1	16756	Farmage Co., Ltd.
 442538	1	20411	WNC Corporation
 4425bb	1	16756	Bamboo Entertainment Corporation
+4425f4	1	20717	Apple, Inc.
 44272e	1	19181	Huawei Device Co., Ltd.
 442745	1	19836	LG Innotek
 4427f3	1	18410	70mai Co.,Ltd.
@@ -27809,7 +27818,7 @@
 48fd8e	1	16918	HUAWEI TECHNOLOGIES CO.,LTD
 48fda3	1	17817	Xiaomi Communications Co Ltd
 48feea	1	16756	HOMA B.V.
-4a07d6	0	18902	IEEE 802.1 Chair
+4a07d6	0	20717	IEEE 802.1 Working Group
 4a1540	0	18970	sas de la Halle aux Fours
 4a191b	0	16856	ZigBee Alliance
 4a5909	0	20174	MIWA LOCK CO.,LTD.
@@ -28689,6 +28698,7 @@
 507d02	1	16756	BIODIT
 507e5d	1	20521	Arcadyan Corporation
 50804a	1	19256	Quectel Wireless Solutions Co.,Ltd.
+508114	1	20717	Apple, Inc.
 508140	1	18738	HP Inc.
 5082d5	1	17122	Apple, Inc.
 508492	1	18849	Intel Corporate
@@ -29632,6 +29642,7 @@
 5850ab	1	16756	TLS Corporation
 5850e6	1	16756	Best Buy Corporation
 5850ed	1	18317	Hangzhou Hikvision Digital Technology Co.,Ltd.
+5851a3	1	20717	Apple, Inc.
 58528a	1	16892	Mitsubishi Electric Corporation
 5853c0	1	16756	Beijing Guang Runtong Technology Development Company co.,Ltd
 585595	1	19040	Apple, Inc.
@@ -30290,6 +30301,7 @@
 5c87d8e	2	19828	Beijing Townsky Technology Co.,Ltd
 5c8816	1	17859	Rockwell Automation
 5c899a	1	16756	TP-LINK TECHNOLOGIES CO.,LTD.
+5c89bc	1	20717	Apple, Inc.
 5c89d4	1	16756	Beijing Banner Electric Co.,Ltd
 5c89e6	1	20112	Richard Wolf GmbH
 5c8a38	1	16756	Hewlett Packard
@@ -30924,6 +30936,7 @@
 60c7be	1	19164	Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 60c980	1	16756	Trymus
 60c9aa	1	19429	Nokia
+60ca3a	1	20717	Apple, Inc.
 60cbfb	1	16756	AirScape Inc.
 60cda9	1	16756	Abloomy
 60cdc5	1	16756	Taiwan Carol Electronics., Ltd
@@ -40094,6 +40107,7 @@
 882ae1	1	20129	MRC INC.
 882b94	1	18311	MADOKA SYSTEM Co.,Ltd.
 882bd7	1	16918	ADDÉNERGIE  TECHNOLOGIES
+882c31	1	20717	Apple, Inc.
 882d53	1	17592	Baidu Online Network Technology (Beijing) Co., Ltd.
 882e5a	1	16756	storONE
 882f64	1	19461	BCOM Networks Limited
@@ -45205,6 +45219,7 @@
 9806a3	1	20661	GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 980709	1	19782	Huawei Device Co., Ltd.
 98072d	1	16825	Texas Instruments
+98076a	1	20717	Apple, Inc.
 980802	1	19829	ORBIS BV
 980818	1	20651	AltoBeam Inc.
 9809cf	1	17817	OnePlus Technology (Shenzhen) Co., Ltd
@@ -45321,6 +45336,7 @@
 984246	1	16756	SOL INDUSTRY PTE., LTD
 984265	1	20578	Sagemcom Broadband SAS
 9842ab	1	20376	GN Hearing A/S
+9842f5	1	20717	Apple, Inc.
 9843da	1	16756	INTERTECH
 9843fa	1	18697	Intel Corporate
 9844b6	1	17824	INFRANOR SAS
@@ -45592,6 +45608,7 @@
 98c9be	1	19979	Shenzhen SDMC Technology CO., LTD
 98ca20	1	18968	Shanghai SIMCOM Ltd.
 98ca33	1	17450	Apple, Inc.
+98cab5	1	20717	Apple, Inc.
 98cb27	1	16756	Galore Networks Pvt. Ltd.
 98cb38	1	19773	Boxin Communications Limited Liability Company
 98cba4	1	18339	Benchmark Electronics
@@ -49839,6 +49856,7 @@ bc1665	1	16756	Cisco Systems, Inc
 bc1695	1	18262	zte corporation
 bc16f5	1	16756	Cisco Systems, Inc
 bc17b8	1	18373	Intel Corporate
+bc1827	1	20717	Apple, Inc.
 bc1896	1	19538	HUAWEI TECHNOLOGIES CO.,LTD
 bc192f	1	20700	Texas Instruments
 bc1a67	1	16756	YF Technology Co., Ltd
@@ -51352,6 +51370,7 @@ c4eb41	1	20609	Sagemcom Broadband SAS
 c4eb42	1	20609	Sagemcom Broadband SAS
 c4eb43	1	20609	Sagemcom Broadband SAS
 c4eb68	1	19921	VusionGroup
+c4eb81	1	20717	Apple, Inc.
 c4ebe3	1	16756	RRCN SAS
 c4ebff	1	19410	zte corporation
 c4edba	1	16756	Texas Instruments
@@ -51964,7 +51983,7 @@ ca125c	0	20389	Microsoft Corporation
 ca1e45	0	18880	ASMedia Technology Inc.
 ca222b	0	19727	Beijing Puma Gear Power Equipment Co.,Ltd
 ca2b5e	0	18264	Suzhou Motor-comm Electronic Technology Co.,Ltd
-ca30bf	0	18902	IEEE 802.1 Chair
+ca30bf	0	20717	IEEE 802.1 Working Group
 ca3782	0	18394	Storbyte, Inc.
 ca3ea6	0	19292	Syng, Inc.
 ca443e	0	20202	Allianz Technology SE
@@ -52282,6 +52301,7 @@ cc827ba	2	20704	Converging Systems Inc.
 cc827bb	2	20711	iGentAI Computing Technology(Shenzhen) Co., Ltd.
 cc827bc	2	20706	RNL Technology(Shenzhen) Co., Ltd
 cc827bd	2	20713	Good Trend Technology Co.Ltd.(Shanghai).
+cc827be	2	20717	Applied Materials
 cc827f	1	19003	Advantech Technology (CHINA) Co., Ltd.
 cc82eb	1	17122	KYOCERA CORPORATION
 cc856c	1	16756	SHENZHEN MDK DIGITAL TECHNOLOGY CO.,LTD
@@ -55148,6 +55168,7 @@ e0faec	1	16756	Platan sp. z o.o. sp. k.
 e0fff1	1	18943	Texas Instruments
 e0fff7	1	16756	Softiron Inc.
 e20c0f	16	0	
+e4013b	1	20717	Apple, Inc.
 e40177	1	20404	SafeOwl, Inc.
 e40274	1	20511	FW Murphy Production Controls
 e4029b	1	16892	Intel Corporate
@@ -58320,7 +58341,7 @@ fa7acb	0	20161	Ultra Ethernet Consortium
 fa7d04	0	20339	Salience Labs
 fa8d93	0	20615	Runione Tech Co., Ltd
 fa9305	0	20511	Panasonic Automotive Systems Co., Ltd.
-fa94f1	0	18902	IEEE 802.1 Chair
+fa94f1	0	20717	IEEE 802.1 Working Group
 faba85	0	17909	APAT Optoelectronics Components Co., Ltd.
 fad988	0	18152	Momentum Data Systems
 fae190	0	16856	IN WIN DEVELOPMENT INC.

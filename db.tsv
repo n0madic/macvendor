@@ -15445,6 +15445,7 @@
 006762	1	17824	Fiberhome Telecommunication Technologies Co.,LTD
 00682b	1	18605	Huawei Device Co., Ltd.
 0068eb	1	18144	HP Inc.
+0068fe	1	20718	UNINET Co.,Ltd.
 00692d	1	18236	Sunnovo International Limited
 006967	1	18160	IEEE Registration Authority
 0069670	2	18163	Annapurna labs
@@ -17971,6 +17972,7 @@
 04eee8d	2	18937	SHENZHEN TOPWELL TECHNOLOGY CO., LTD.
 04eee8e	2	18941	Best Integration Technology Co., Ltd.
 04eeee	1	18712	Laplace System Co., Ltd.
+04ef61	1	20717	Dell Inc.
 04f021	1	16756	Compex Systems Pte Ltd
 04f03e	1	18591	Huawei Device Co., Ltd.
 04f0e4	1	19620	ShenZhen Hosecom Electronic Technology Co.,LTD
@@ -25868,6 +25870,7 @@
 402b50	1	20012	Commscope
 402b69	1	18255	Kumho Electric Inc.
 402ba1	1	18731	Sony Corporation
+402bd6	1	20718	Espressif Inc.
 402c76	1	18191	IEEE Registration Authority
 402c760	2	18193	Lista AG
 402c761	2	18199	Shanghai Dahua Scale Factory
@@ -29563,6 +29566,7 @@
 582abd	1	20609	Espressif Inc.
 582af7	1	16756	HUAWEI TECHNOLOGIES CO.,LTD
 582b0a	1	19102	Texas Instruments
+582bd3	1	20718	Espressif Inc.
 582bdb	1	16756	Pax AB
 582d34	1	17684	Qingping Electronics (Suzhou) Co., Ltd
 582efe	1	16756	Lighting Science Group
@@ -37497,6 +37501,7 @@
 74888b	1	16756	ADB Broadband Italia
 7488a8	1	19990	Bouffalo Lab (Nanjing) Co., Ltd.
 7488bb	1	17873	Cisco Systems, Inc
+748927	1	20718	Espressif Inc.
 748a0d	1	20012	Commscope
 748a28	1	18156	HMD Global Oy
 748a69	1	16979	Korea Image Technology Co., Ltd
@@ -40934,6 +40939,7 @@
 8c1f6416f	4	20271	Codasip s.r.o.
 8c1f64170	4	19675	Fracarro Radioindustrie Srl
 8c1f64171	4	20642	Maxphotoics GmbH
+8c1f64173	4	20718	iPronics
 8c1f64174	4	20059	KST technology
 8c1f64175	4	20028	Wuhan YiValley Opto-electric technology Co.,Ltd
 8c1f64176	4	20187	Leidos Inc
@@ -44396,6 +44402,7 @@
 9092b4	1	16756	Diehl BGT Defence GmbH & Co. KG
 90935a	1	20012	Commscope
 90940a	1	17817	Analog Devices, Inc
+909412	1	20718	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 909497	1	17511	HUAWEI TECHNOLOGIES CO.,LTD
 9094e4	1	16756	D-Link International
 909507	1	20068	HUAWEI TECHNOLOGIES CO.,LTD
@@ -46287,6 +46294,7 @@ a00e98	1	19857	HUAWEI TECHNOLOGIES CO.,LTD
 a00f37	1	18857	Cisco Systems, Inc
 a01077	1	19313	zte corporation
 a01081	1	16996	Samsung Electronics Co.,Ltd
+a01217	1	20718	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 a01290	1	17254	Avaya Inc
 a012db	1	16756	TABUCHI ELECTRIC CO.,LTD
 a0133b	1	16756	HiTi Digital, Inc.
@@ -47786,6 +47794,7 @@ a8f8c9	1	19262	NXP Semiconductor (Tianjin) LTD.
 a8f94b	1	17959	Eltex Enterprise Ltd.
 a8fad8	1	17450	Apple, Inc.
 a8fb40	1	19447	Nokia Solutions and Networks GmbH & Co. KG
+a8fb45	1	20717	Google, Inc.
 a8fb70	1	16756	WiseSec L.t.d
 a8fcb7	1	16756	Consolidated Resource Imaging
 a8fd07	1	20705	Espressif Inc.
@@ -51908,6 +51917,7 @@ c8e7f0	1	17348	Juniper Networks
 c8e8af	1	20661	eero inc.
 c8eaf8	1	17952	zte corporation
 c8ebec	1	19041	Shenzhen YOUHUA Technology Co., Ltd
+c8ed8b	1	20718	Espressif Inc.
 c8edfc	1	19276	Shenzhen Ideaform Industrial Product Design Co., Ltd
 c8ee08	1	16756	TANGTOP TECHNOLOGY CO.,LTD
 c8ee75	1	16756	Pishion International Co. Ltd
@@ -51916,6 +51926,9 @@ c8eed7	1	19844	Lightspeed Technologies Inc.
 c8ef2e	1	16756	Beijing Gefei Tech. Co., Ltd
 c8efbc	1	19181	Inspur Communication Technology Co.,Ltd.
 c8f09e	1	20609	Espressif Inc.
+c8f10a	1	20718	IEEE Registration Authority
+c8f10a3	2	20718	CiDi Inc.
+c8f10a6	2	20717	Nanjing Brome Communications Technology CO.,LTD
 c8f225	1	19396	EM Microelectronic
 c8f230	1	16756	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 c8f2b4	1	19231	Guizhou Huaxin Information Technology Co., Ltd.
@@ -53140,6 +53153,7 @@ d0e140	1	16756	Apple, Inc.
 d0e347	1	16756	Yoga
 d0e40b	1	16756	Wearable Inc.
 d0e44a	1	16756	Murata Manufacturing Co., Ltd.
+d0e48c	1	20718	WITS Co., Ltd
 d0e54d	1	20012	Commscope
 d0e581	1	19790	Apple, Inc.
 d0e782	1	16756	AzureWave Technology Inc.
@@ -57482,6 +57496,7 @@ f47a4e	1	16756	Woojeon&Handan
 f47acc	1	16756	SolidFire, Inc.
 f47b09	1	18723	Intel Corporate
 f47b5e	1	16963	Samsung Electronics Co.,Ltd
+f47d8f	1	20717	Google, Inc.
 f47def	1	17740	Samsung Electronics Co.,Ltd
 f47f35	1	16756	Cisco Systems, Inc
 f48139	1	16756	CANON INC.

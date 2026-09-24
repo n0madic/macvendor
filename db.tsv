@@ -18710,6 +18710,7 @@
 0c1105	1	17881	AKUVOX (XIAMEN) NETWORKS CO., LTD
 0c1167	1	16756	Cisco Systems, Inc
 0c1262	1	19426	zte corporation
+0c12ad	1	20720	Hewlett Packard Enterprise
 0c130b	1	16756	Uniqoteq Ltd.
 0c1420	1	16756	Samsung Electronics Co.,Ltd
 0c14d2	1	18326	China Mobile Group Device Co.,Ltd.
@@ -21823,6 +21824,7 @@
 20d25f	1	17021	SmartCap Technologies
 20d276	1	18696	ITEL MOBILE LIMITED
 20d390	1	16756	Samsung Electronics Co.,Ltd
+20d476	1	20719	Amazon Technologies Inc.
 20d5ab	1	16756	Korea Infocom Co.,Ltd.
 20d5bf	1	16963	Samsung Electronics Co.,Ltd
 20d5c2	1	20635	Espressif Systems (Singapore) Pte. Ltd
@@ -24390,6 +24392,7 @@
 3497f6	1	16841	ASUSTek COMPUTER INC.
 3497fb	1	16756	ADVANCED RF TECHNOLOGIES INC
 34987a	1	19324	Espressif Inc.
+34987c	1	20719	AltoBeam Inc.
 3498b5	1	20388	NETGEAR
 34996f	1	16756	VPI Engineering
 349971	1	17851	Quanta Storage Inc.
@@ -26119,6 +26122,7 @@
 40a6b7	1	18145	Intel Corporate
 40a6d9	1	17450	Apple, Inc.
 40a6e8	1	16756	Cisco Systems, Inc
+40a746	1	20719	Broadcom Limited
 40a786	1	20238	TECNO MOBILE LIMITED
 40a8f0	1	16756	Hewlett Packard
 40a93f	1	17866	Pivotal Commware, Inc.
@@ -30063,6 +30067,7 @@
 5c22da	1	19473	Vantiva USA LLC
 5c2316	1	18326	Squirrels Research Labs LLC
 5c23c2	1	20621	Apple, Inc.
+5c23d6	1	20719	China Electronics Cloud Computing Technology Co., Ltd
 5c241f	1	19816	Qingdao Haier Technology Co.,Ltd
 5c2443	1	16979	O-Sung Telecom Co., Ltd.
 5c2479	1	16756	Baltech AG
@@ -30609,6 +30614,7 @@
 60159fd	2	20444	FF Videosistemas SL
 60159fe	2	20446	MaiaSpace
 6015c7	1	16756	IdaTech
+6016f3	1	20719	Huaqin Technology Co., Ltd.
 601803	1	17328	Daikin Air-conditioning (Shanghai) Co., Ltd.
 60182e	1	16756	ShenZhen Protruly Electronic Ltd co.
 60183a	1	19013	Huawei Device Co., Ltd.
@@ -31562,6 +31568,7 @@
 64fd96	1	20578	Sagemcom Broadband SAS
 64fe15	1	19741	Flaircomm Microelectronics,Inc.
 64ff0a	1	20350	WNC Corporation
+680125	1	20719	Amazon Technologies Inc.
 680235	1	17173	Konten Networks Inc.
 6802b8	1	18136	Compal Broadband Networks, Inc.
 680489	1	20173	Cisco Systems, Inc
@@ -40802,6 +40809,7 @@
 8c1f640a3	4	20525	Fischer & Connectors SA
 8c1f640a4	4	19424	Dynamic Research, Inc.
 8c1f640a5	4	19965	Gomero Nordic AB
+8c1f640a7	4	20720	Tevel d.o.o.
 8c1f640a8	4	18729	SamabaNova Systems
 8c1f640a9	4	20523	RFT Corp.
 8c1f640aa	4	19299	DI3 INFOTECH LLP
@@ -42465,6 +42473,7 @@
 8c1f649c4	4	20360	Indra Heera Network Private Limited
 8c1f649c5	4	20390	Pacton Technologies Pty Ltd
 8c1f649c6	4	19964	Golding Audio Ltd
+8c1f649c7	4	20719	Sanmina SCI Medical
 8c1f649c9	4	20252	Matrix Electronic Technology Co., LTD
 8c1f649ca	4	19916	EDC Acoustics
 8c1f649cb	4	19335	Shanghai Sizhong Information Technology Co., Ltd
@@ -42605,6 +42614,7 @@
 8c1f64a90	4	19989	DSGio Global Pte Ltd
 8c1f64a91	4	19410	Infinitive Group Limited
 8c1f64a92	4	19831	Agrology, PBC
+8c1f64a93	4	20720	eSmart Tech Inc
 8c1f64a94	4	18872	Future wave ultra tech Company
 8c1f64a95	4	20388	Sentek Pty Ltd
 8c1f64a97	4	19013	Integer.pl S.A.
@@ -43102,6 +43112,7 @@
 8c1f64d33	4	20602	SPACE CREATORS ALLIANCE Inc.
 8c1f64d34	4	19569	KRONOTECH SRL
 8c1f64d35	4	20550	Xi'an Biangu Information Technology Co., Ltd.
+8c1f64d36	4	20719	RF Code Inc
 8c1f64d38	4	19663	CUU LONG TECHNOLOGY AND TRADING COMPANY LIMITED
 8c1f64d3a	4	19187	Applied Materials
 8c1f64d3b	4	20251	Gogo BA
@@ -44804,6 +44815,7 @@
 943efdd	2	20145	KulpLights LLC
 943efde	2	20150	Annapurna labs
 943f0c	1	19558	Genexis B.V.
+943f68	1	20719	Nanjing RISC-V Institute Co., Ltd.
 943fbb	1	18937	JSC RPC Istok named after Shokin
 943fc2	1	19808	Hewlett Packard Enterprise
 943fd6	1	19396	Apple, Inc.
@@ -51863,6 +51875,7 @@ c8c750	1	18219	Motorola Mobility LLC, a Lenovo Company
 c8c791	1	16756	Zero1.tv GmbH
 c8c83f	1	20306	Texas Instruments
 c8c873	1	20511	CHIPSEN INC.
+c8c919	1	20719	Broadcom Limited
 c8c992	1	20629	Beijing Roborock Technology Co., Ltd.
 c8c9a3	1	20609	Espressif Inc.
 c8c9b2	1	20689	Amazon Technologies Inc.
@@ -51934,9 +51947,12 @@ c8ef2e	1	16756	Beijing Gefei Tech. Co., Ltd
 c8efbc	1	19181	Inspur Communication Technology Co.,Ltd.
 c8f09e	1	20609	Espressif Inc.
 c8f10a	1	20718	IEEE Registration Authority
+c8f10a0	2	20719	Clever Logger Technologies Pty Ltd
 c8f10a3	2	20718	CiDi Inc.
 c8f10a6	2	20717	Nanjing Brome Communications Technology CO.,LTD
+c8f10a9	2	20719	dss Co,. Ltd
 c8f10ab	2	20718	Vebo Genossenschaft
+c8f10ac	2	20719	Changzhou Siri Electric Technology Co.,Ltd.
 c8f10ad	2	20718	I2V Systems Pvt. Ltd.
 c8f225	1	19396	EM Microelectronic
 c8f230	1	16756	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD

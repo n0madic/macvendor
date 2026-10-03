@@ -23476,6 +23476,7 @@
 2cd2e7	1	16756	Nokia Corporation
 2cd3ad	1	19951	Texas Instruments
 2cd444	1	17817	FUJITSU LIMITED
+2cd748	1	20729	Itron Inc
 2cd7ff	1	19390	LANCOM Systems GmbH
 2cd8ae	1	20105	Shenzhen SEI Robotics Co.,Ltd
 2cd8de	1	19934	AltoBeam Inc.
@@ -23559,6 +23560,7 @@
 30074d	1	17218	SAMSUNG ELECTRO-MECHANICS(THAILAND)
 30075c	1	20606	Netis Technology Co., Ltd.
 3007a3	1	20543	Shenzhen Skyworth Digital  Technology  CO., Ltd
+3007eb	1	20728	Xiaomi Communications Co Ltd
 30084d	1	20522	Trumpf Hüttinger
 300916	1	20586	Apple, Inc.
 3009c0	1	18745	Motorola Mobility LLC, a Lenovo Company
@@ -24224,6 +24226,7 @@
 3438af	1	19129	Inlab Networks GmbH
 3438b7	1	17218	HUMAX Co., Ltd.
 343916	1	20277	Google, Inc.
+343932	1	20728	Xiaomi Communications Co Ltd
 343a20	1	19808	Hewlett Packard Enterprise
 343c30	1	20116	NXP Semiconductor (Tianjin) LTD.
 343d7f	1	19863	Klipsch Group, Inc.
@@ -28134,9 +28137,13 @@
 4c8120	1	17173	Taicang T&W Electronics
 4c8125	1	19780	ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4c81be	1	20727	IEEE Registration Authority
+4c81be2	2	20728	Annapurna labs
 4c81be4	2	20727	Suzhou APAQI Robotics Technology Co., Ltd.
+4c81be5	2	20728	Pratap digital communications pvt ltd
 4c81be6	2	20728	Shenzhen Ultra Meta Industrial Control Technology Co.,Ltd.
 4c81be7	2	20727	Renson NV
+4c81be9	2	20729	Shenzhen Jooan Technology  Co., Ltd
+4c81bea	2	20729	Shenzhen Sinevolt Technology Co., Ltd
 4c81beb	2	20727	Guangdong Lidun New Energy Technology Co., Ltd.
 4c81bec	2	20728	Shenzhen Huiqincai Network Communication Co., Ltd.
 4c820c	1	20305	Apple, Inc.
@@ -29946,6 +29953,7 @@
 58dc6d	1	16756	Exceptional Innovation, Inc.
 58df59	1	20034	Cisco Systems, Inc
 58df70	1	20494	Private
+58dfa5	1	20729	RUIYI(HK)TELECOMMUNICATION TECHNOLOGIES LIMITED
 58e02c	1	16756	Micro Technic A/S
 58e16c	1	17021	Ying Hua Information Technology (Shanghai)Co., LTD
 58e28f	1	17310	Apple, Inc.
@@ -31144,6 +31152,7 @@
 641aba	1	18893	Dryad Networks GmbH
 641b2f	1	19425	Samsung Electronics Co.,Ltd
 641b85	1	20469	Vantiva USA LLC
+641bb7	1	20729	ITEL MOBILE LIMITED
 641c10	1	19402	Texas Instruments
 641c67	1	18079	DIGIBRAS INDUSTRIA DO BRASILS/A
 641cae	1	17528	Samsung Electronics Co.,Ltd
@@ -32507,6 +32516,7 @@
 6ccb7f	1	20642	GD Midea Air-Conditioning Equipment Co.,Ltd.
 6ccdd6	1	20388	NETGEAR
 6cce44	1	18370	1MORE
+6ccf36	1	20729	VISIONOX TECHNOLOGY,INC.
 6ccf39	1	20127	Shanghai StarFive Semiconductor Co., Ltd.
 6cd008	1	19857	zte corporation
 6cd032	1	16756	LG Electronics
@@ -40299,6 +40309,7 @@
 88665a	1	18591	Apple, Inc.
 8866a5	1	17066	Apple, Inc.
 886746	1	19977	eero inc.
+886770	1	20728	Huizhou Desay SV Automotive Co.,ltd
 8867dc	1	19339	HUAWEI TECHNOLOGIES CO.,LTD
 88684b	1	19378	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 88685c	1	16756	Shenzhen ChuangDao & Perpetual Eternal Technology Co.,Ltd
@@ -41117,6 +41128,7 @@
 8c1f64235	4	19955	Marson Technology Co., Ltd.
 8c1f64237	4	20160	MB connect line GmbH
 8c1f64239	4	20088	SHEKEL SCALES 2008 LTD
+8c1f6423c	4	20729	Weltek Technologies Co. Ltd.
 8c1f6423d	4	19200	Mokila Networks Pvt Ltd
 8c1f6423e	4	20178	Quantum Blockchains Sp. z o.o.
 8c1f64240	4	19136	HuiTong intelligence Company
@@ -48415,6 +48427,7 @@ b009d3	1	16756	Avizia
 b009da	1	17310	Ring Solutions
 b00ad5	1	18213	zte corporation
 b00b22	1	20224	Huawei Device Co., Ltd.
+b00be2	1	20728	Xiaomi Communications Co Ltd
 b00c9d	1	19551	Quectel Wireless Solutions Co.,Ltd.
 b00cd1	1	17873	Hewlett Packard
 b01041	1	16756	Hon Hai Precision Ind. Co.,Ltd.
@@ -51866,6 +51879,7 @@ c89f1a	1	18781	HUAWEI TECHNOLOGIES CO.,LTD
 c89f1d	1	16756	SHENZHEN COMMUNICATION TECHNOLOGIES CO.,LTD
 c89f42	1	16756	VDII Innovation AB
 c8a030	1	16756	Texas Instruments
+c8a162	1	20728	DJI BAIWANG TECHNOLOGY CO LTD
 c8a1b6	1	16756	Shenzhen Longway Technologies Co., Ltd
 c8a1ba	1	16756	Neul Ltd
 c8a1dc	1	20161	Motorola Mobility LLC, a Lenovo Company

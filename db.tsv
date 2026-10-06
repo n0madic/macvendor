@@ -25508,6 +25508,7 @@
 3c6200	1	16963	Samsung Electronics Co.,Ltd
 3c6278	1	16756	SHENZHEN JETNET TECHNOLOGY CO.,LTD.
 3c62f0	1	18717	Sercomm Corporation.
+3c6314	1	20731	Gespant
 3c64cf	1	20173	TP-Link Systems Inc
 3c65d1	1	20451	HUAWEI TECHNOLOGIES CO.,LTD
 3c6716	1	16756	Lily Robotics
@@ -26808,6 +26809,7 @@
 40fa7f	1	17125	Preh Car Connect GmbH
 40fafe	1	19375	Motorola Mobility LLC, a Lenovo Company
 40fc89	1	20012	Commscope
+40fda5	1	20731	Mellanox Technologies, Inc.
 40fdf3	1	19116	AMPAK Technology,Inc.
 40fe0d	1	16996	MAXIO
 40fe95	1	18928	New H3C Technologies Co., Ltd
@@ -28137,6 +28139,7 @@
 4c8120	1	17173	Taicang T&W Electronics
 4c8125	1	19780	ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4c81be	1	20727	IEEE Registration Authority
+4c81be1	2	20731	EUROSONIC Ultraschall GmbH & Co. KG
 4c81be2	2	20728	Annapurna labs
 4c81be4	2	20727	Suzhou APAQI Robotics Technology Co., Ltd.
 4c81be5	2	20728	Pratap digital communications pvt ltd
@@ -30925,6 +30928,7 @@
 60a4b7	1	20173	TP-Link Systems Inc
 60a4d0	1	16996	Samsung Electronics Co.,Ltd
 60a5e2	1	18703	Intel Corporate
+60a614	1	20731	Mellanox Technologies, Inc.
 60a6c5	1	18955	HUAWEI TECHNOLOGIES CO.,LTD
 60a730	1	17748	Shenzhen Yipinfang Internet Technology Co.,Ltd
 60a751	1	18618	Huawei Device Co., Ltd.
@@ -41315,6 +41319,7 @@
 8c1f64342	4	19698	TimeMachines Inc.
 8c1f64343	4	20656	Syscom Instruments SA
 8c1f64345	4	20147	Kreafeuer AG, Swiss finsh
+8c1f64346	4	20731	Sin Yi Integration Co., Ltd.
 8c1f64347	4	19793	Plut d.o.o.
 8c1f64348	4	20354	Breas Medical AB
 8c1f64349	4	19329	WAVES SYSTEM
@@ -42750,6 +42755,7 @@
 8c1f64b03	4	18740	Shenzhen Pisoftware Technology Co.,Ltd.
 8c1f64b07	4	20662	AeroVironment
 8c1f64b08	4	19234	Cronus Electronics
+8c1f64b0b	4	20731	Zumbach Electronic AG
 8c1f64b0c	4	18835	Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
 8c1f64b0d	4	20644	ProbeFox GmbH
 8c1f64b0e	4	20459	Watthour Engineering Co., Inc.
@@ -43521,6 +43527,7 @@
 8c1f64f3c	4	18998	Microlynx Systems Ltd
 8c1f64f3d	4	19187	Byte Lab Grupa d.o.o.
 8c1f64f3f	4	18850	Industrial Laser Machines, LLC
+8c1f64f40	4	20731	DORLET SAU
 8c1f64f41	4	18745	AUTOMATIZACION Y CONECTIVIDAD SA DE CV
 8c1f64f43	4	19136	wtec GmbH
 8c1f64f45	4	19039	JBF
@@ -50765,6 +50772,7 @@ c0a810	1	20143	Intel Corporate
 c0a8f0	1	17450	Adamson Systems Engineering
 c0a938	1	19017	HUAWEI TECHNOLOGIES CO.,LTD
 c0aa68	1	16756	OSASI Technos Inc.
+c0ab19	1	20731	Mellanox Technologies, Inc.
 c0ab2b	1	19782	Huawei Device Co., Ltd.
 c0ac54	1	20609	Sagemcom Broadband SAS
 c0ad97	1	19046	TECNO MOBILE LIMITED
@@ -54158,6 +54166,7 @@ d8a756	1	20609	Sagemcom Broadband SAS
 d8a8c8	1	18262	zte corporation
 d8a98b	1	17740	Texas Instruments
 d8aa59	1	18950	Tonly Technology Co. Ltd
+d8ac2d	1	20731	Mellanox Technologies, Inc.
 d8ad49	1	19250	Honor Device Co., Ltd.
 d8addd	1	16756	Sonavation, Inc.
 d8ae90	1	16756	Itibia Technologies
@@ -58474,6 +58483,7 @@ fa0bbc	0	19388	CEN
 fa1466	0	16952	Allegion PLC
 fa1619	0	16986	trendytech
 fa2ee9	0	17422	OCA Alliance, Inc.
+fa3bc6	0	20731	Shenzhen K&D Technology Co., Ltd.
 fa4c77	0	16856	OCCITALINE
 fa556f	0	16856	SymbolicIO
 fa610e	0	16856	Laboratory for Computational Sensing and Robotics, Johns Hopkins University

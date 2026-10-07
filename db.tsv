@@ -15804,6 +15804,7 @@
 0089c9	1	20630	Extreme Networks, Inc.
 008a55	1	18529	Huawei Device Co., Ltd.
 008a76	1	18802	Apple, Inc.
+008a8f	1	20733	Siemens Power Automation Ltd.
 008a96	1	16802	Cisco Systems, Inc
 008b43	1	16756	RFTECH
 008bfc	1	17274	mixi,Inc.
@@ -18577,6 +18578,7 @@
 08dfcb	1	17528	Systrome Networks
 08e021	1	18977	Honor Device Co., Ltd.
 08e342	1	19661	Cear, Inc.
+08e491	1	20733	Shenzhen Jingxun Technology Co., Ltd.
 08e4df	1	18807	Shenzhen Sande Dacom Electronics Co., Ltd
 08e5da	1	16756	NANJING FUJITSU COMPUTER PRODUCTS CO.,LTD.
 08e63b	1	19210	zte corporation
@@ -23123,6 +23125,7 @@
 2c3731	1	16918	SHENZHEN YIFANG DIGITAL TECHNOLOGY CO.,LTD.
 2c3796	1	16756	CYBO CO.,LTD.
 2c37c5	1	17431	Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
+2c37fb	1	20733	Nanjing Qinheng Microelectronics Co., Ltd.
 2c3996	1	20609	Sagemcom Broadband SAS
 2c39c1	1	16756	Ciena Corporation
 2c3a28	1	16756	Fagor Electrónica
@@ -28139,16 +28142,21 @@
 4c8120	1	17173	Taicang T&W Electronics
 4c8125	1	19780	ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4c81be	1	20727	IEEE Registration Authority
+4c81be0	2	20733	Polaris Elektronik
 4c81be1	2	20731	EUROSONIC Ultraschall GmbH & Co. KG
 4c81be2	2	20728	Annapurna labs
+4c81be3	2	20733	Beijing REMANG Technology Co., Ltd.
 4c81be4	2	20727	Suzhou APAQI Robotics Technology Co., Ltd.
 4c81be5	2	20728	Pratap digital communications pvt ltd
 4c81be6	2	20728	Shenzhen Ultra Meta Industrial Control Technology Co.,Ltd.
 4c81be7	2	20727	Renson NV
+4c81be8	2	20733	Port Of London Authority
 4c81be9	2	20729	Shenzhen Jooan Technology  Co., Ltd
 4c81bea	2	20729	Shenzhen Sinevolt Technology Co., Ltd
 4c81beb	2	20727	Guangdong Lidun New Energy Technology Co., Ltd.
 4c81bec	2	20728	Shenzhen Huiqincai Network Communication Co., Ltd.
+4c81bed	2	20733	BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
+4c81bee	2	20733	Nidec corporation
 4c820c	1	20305	Apple, Inc.
 4c8237	1	20608	Telink Micro LLC
 4c82a9	1	19231	CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
@@ -40406,6 +40414,7 @@
 889e33	1	17954	TCT mobile ltd
 889e68	1	19473	Vantiva USA LLC
 889e96	1	20067	zte corporation
+889e9a	1	20733	AltoBeam Inc.
 889f6f	1	17684	Samsung Electronics Co.,Ltd
 889faa	1	17984	Hella Gutmann Solutions GmbH
 889ffa	1	16963	Hon Hai Precision Ind. Co.,Ltd.
@@ -41018,6 +41027,7 @@
 8c1f64185	4	19920	BIOTAGE GB LTD
 8c1f64186	4	19885	Breas Medical AB
 8c1f64187	4	19276	Sicon srl
+8c1f64189	4	20733	HERUTU ELECTRONICS CORPORATION
 8c1f6418a	4	20439	Network Rail
 8c1f6418b	4	19382	M-Pulse GmbH & Co.KG
 8c1f6418e	4	20012	J1-LED Intelligent Transport Systems Pty Ltd
@@ -41453,6 +41463,7 @@
 8c1f643e9	4	20118	HEITEC AG
 8c1f643ea	4	20019	CHIPSCAPE SECURITY SYSTEMS
 8c1f643eb	4	20262	Samwell International Inc
+8c1f643ec	4	20733	SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
 8c1f643ed	4	20215	The Exploration Company
 8c1f643ee	4	19544	BnB Information Technology
 8c1f643f2	4	20258	SURYA ELECTRONICS
@@ -41904,6 +41915,7 @@
 8c1f64662	4	19132	Suzhou Leamore Optronics Co., Ltd.
 8c1f64663	4	18858	mal-tech Technological Solutions Ltd/CRISP
 8c1f64664	4	19752	Thermoeye Inc
+8c1f64665	4	20732	RIVI Networks Ltd
 8c1f64668	4	20521	Johnson and Johnson Medtech
 8c1f6466b	4	20460	Currux Vision LLC
 8c1f6466c	4	18829	LINEAGE POWER PVT LTD.,
@@ -43396,6 +43408,7 @@
 8c1f64e7b	4	18955	Dongguan Pengchen Earth Instrument CO. LT
 8c1f64e7c	4	19063	Ashinne Technology Co., Ltd
 8c1f64e7d	4	20118	AUDIO VISUAL DIGITAL SYSTEMS
+8c1f64e7f	4	20733	Automata GmbH & Co. KG
 8c1f64e80	4	20588	Power Electronics Espana, S.L.
 8c1f64e81	4	20630	Sunair Electronics
 8c1f64e82	4	20474	SMITEC S.p.A.
@@ -48207,6 +48220,7 @@ ac8ba9	1	19340	Ubiquiti Inc
 ac8c46	1	19692	Beijing Xiaomi Mobile Software Co., Ltd
 ac8d14	1	16756	Smartrove Inc
 ac8d34	1	18107	HUAWEI TECHNOLOGIES CO.,LTD
+ac8e63	1	20733	CHINA DRAGON TECHNOLOGY LIMITED
 ac8ebd	1	19823	Microsoft Corporation
 ac8fa9	1	19017	Nokia Solutions and Networks GmbH & Co. KG
 ac8ff8	1	17881	Nokia
@@ -52218,6 +52232,7 @@ cc242e	1	18654	Shenzhen SuperElectron Technology Co.,Ltd.
 cc25ef	1	16756	Apple, Inc.
 cc2614	1	19950	Sichuan Tianyi Comheart Telecom Co.,LTD
 cc262d	1	16756	Verifi, LLC
+cc268f	1	20733	Oraimo Technology Limited
 cc2746	1	19888	Apple, Inc.
 cc28aa	1	19755	ASUSTek COMPUTER INC.
 cc29bd	1	19210	zte corporation
@@ -52680,6 +52695,8 @@ ccf411	1	18183	Google, Inc.
 ccf538	1	16756	3isysnetworks
 ccf55f	1	18494	E FOCUS INSTRUMENTS INDIA PRIVATE LIMITED
 ccf67a	1	16756	Ayecka Communication Systems LTD
+ccf722	1	20733	IEEE Registration Authority
+ccf7221	2	20733	Lucky Tone Technology Co., Ltd.
 ccf735	1	17824	Amazon Technologies Inc.
 ccf826	1	19297	Samsung Electronics Co.,Ltd
 ccf841	1	16756	Lumewave

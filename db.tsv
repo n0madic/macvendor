@@ -19327,6 +19327,7 @@
 100f18	1	16756	Fu Gang Electronic(KunShan)CO.,LTD
 101081	1	18625	zte corporation
 1010b6	1	16756	McCain Inc
+101201	1	20740	AMD
 101212	1	16756	Vivo International Corporation Pty Ltd
 101218	1	16756	Korins Inc.
 101248	1	16756	ITG, Inc.
@@ -20186,6 +20187,7 @@
 14cb65	1	18883	Microsoft Corporation
 14cc20	1	16756	TP-LINK TECHNOLOGIES CO.,LTD.
 14ccb3	1	18436	AO GK NATEKS
+14cce7	1	20740	Vizio, Inc
 14cf8d	1	17328	OHSUNG
 14cf92	1	16756	TP-LINK TECHNOLOGIES CO.,LTD.
 14cfe2	1	20012	Commscope
@@ -41704,6 +41706,7 @@
 8c1f6452e	4	19327	CLOUD TELECOM Inc.
 8c1f64530	4	19678	SIPazon AB
 8c1f64531	4	20480	EA Elektro-Automatik GmbH
+8c1f64532	4	20740	SEONGWON ENG CO.,LTD
 8c1f64533	4	20280	Boeing India Private Limited
 8c1f64534	4	18843	SURYA ELECTRONICS
 8c1f64535	4	18907	Columbus McKinnon
@@ -42264,6 +42267,7 @@
 8c1f64825	4	19216	MTU Aero Engines AG
 8c1f64827	4	20469	Meisol Co., Ltd.
 8c1f64828	4	20193	AURCORE TECHNOLOGY INC.
+8c1f64829	4	20740	Potter Electric Signal Company
 8c1f6482b	4	19551	Flow Power
 8c1f6482c	4	20588	Power Electronics Espana, S.L.
 8c1f6482f	4	19445	AnySignal
@@ -42536,6 +42540,7 @@
 8c1f649ac	4	19913	Hangzhou Jingtang Communication Technology Co.,Ltd.
 8c1f649ad	4	20425	Potter Electric Signal Co. LLC
 8c1f649af	4	20706	Advanced Mechatronics GmbH
+8c1f649b0	4	20740	Karman
 8c1f649b2	4	19250	Emerson Rosemount Analytical
 8c1f649b3	4	19234	Böckelt GmbH
 8c1f649b5	4	20123	BERKELEY NUCLEONICS CORP
@@ -43636,6 +43641,7 @@
 8c1f64faa	4	19087	Massar Networks
 8c1f64fab	4	19649	LIAN Corporation
 8c1f64fac	4	19691	Showa Electric Laboratory co.,ltd.
+8c1f64fad	4	20739	LOOKMAN DISTRIBUTION PVT.LTD
 8c1f64faf	4	20713	Goodtech Worldwide LTD ,,mobitel''
 8c1f64fb0	4	18949	MARIAN GmbH
 8c1f64fb1	4	18863	ABB
@@ -52717,9 +52723,12 @@ ccf538	1	16756	3isysnetworks
 ccf55f	1	18494	E FOCUS INSTRUMENTS INDIA PRIVATE LIMITED
 ccf67a	1	16756	Ayecka Communication Systems LTD
 ccf722	1	20733	IEEE Registration Authority
+ccf7220	2	20740	OP CORE
 ccf7221	2	20733	Lucky Tone Technology Co., Ltd.
 ccf7225	2	20734	Foritec GmbH
 ccf7228	2	20735	75F Engineering Services India Private Ltd
+ccf7229	2	20739	deutherm cooling GmbH
+ccf722a	2	20740	WIWORLD CO.,LTD
 ccf722b	2	20739	SEP
 ccf722c	2	20734	Walnut Medical Private Limited
 ccf722d	2	20739	KONEC SOLUTIONS PTY LTD
@@ -52897,6 +52906,7 @@ d040be	1	19243	NPO RPS LLC
 d040ef	1	18559	Murata Manufacturing Co., Ltd.
 d041c9	1	17893	Fiberhome Telecommunication Technologies Co.,LTD
 d0431e	1	16756	Dell Inc.
+d04341	1	20740	Sichuan AI-Link Technology Co., Ltd.
 d04433	1	19544	Clourney Semiconductor
 d0458d	1	20389	Shenzhen Skyworth Digital  Technology  CO., Ltd
 d0460c	1	19705	Dell Inc.
@@ -57535,6 +57545,7 @@ f43bd8	1	19097	Intel Corporate
 f43c3b	1	19425	HUNAN FN-LINK TECHNOLOGY LIMITED
 f43c96	1	19557	Ericsson AB
 f43d80	1	16756	FAG Industrial Services GmbH
+f43e46	1	20740	Xenox IT & Kommunikations GmbH
 f43e61	1	17173	SHENZHEN GONGJIN ELECTRONICS CO.,LT
 f43e66	1	18004	Bee Computing (HK) Limited
 f43e9d	1	16756	Benu Networks, Inc.

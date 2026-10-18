@@ -17324,7 +17324,7 @@
 00e0e9	1	16756	DATA LABS, INC.
 00e0ea	1	16756	INNOVAT COMMUNICATIONS, INC.
 00e0eb	1	16756	DIGICOM SYSTEMS, INCORPORATED
-00e0ec	1	18242	CELESTICA INC.
+00e0ec	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 00e0ed	1	16756	SILICOM, LTD.
 00e0ee	1	16756	MAREL HF
 00e0ef	1	16756	DIONEX
@@ -18818,7 +18818,7 @@
 0c47a9e	2	20036	BGResearch
 0c47c9	1	16756	Amazon Technologies Inc.
 0c4885	1	17389	LG Electronics (Mobile Communications)
-0c48c6	1	18242	CELESTICA INC.
+0c48c6	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 0c4933	1	17025	Sichuan Jiuzhou Electronic Technology Co., Ltd.
 0c4b48	1	19696	Nokia
 0c4b54	1	17278	TP-LINK TECHNOLOGIES CO.,LTD.
@@ -21345,6 +21345,7 @@
 1ccae3e	2	16836	Dabi Atlante S/A Industrias Medico Odontológicas
 1ccae3f	2	16836	Private
 1ccb99	1	16861	TCT mobile ltd
+1ccccd	1	20743	TECNO MOBILE LIMITED
 1cccd6	1	18061	Xiaomi Communications Co Ltd
 1ccde5	1	16756	Shanghai Wind Technologies Co.,Ltd
 1cce51	1	19671	AzureWave Technology Inc.
@@ -21606,6 +21607,7 @@
 20500d	1	20609	Espressif Inc.
 20500f	1	19762	Fiber Groep B.V.
 2050e7	1	18264	AMPAK Technology,Inc.
+2051a5	1	20743	NetApp, Inc.
 2051f5	1	20217	Earda Technologies co Ltd
 20521d	1	20621	Apple, Inc.
 205383	1	18734	HUAWEI TECHNOLOGIES CO.,LTD
@@ -22216,6 +22218,7 @@
 248ab3	1	20488	ICTK Co., Ltd.
 248be0	1	18682	Sichuan Tianyi Comheart Telecom Co.,LTD
 249038	1	19375	Universal Biosensors Pty Ltd
+249123	1	20743	SZ DJI Ronin Technology Co., Ltd.
 2491bb	1	18453	HUAWEI TECHNOLOGIES CO.,LTD
 24920e	1	16996	Samsung Electronics Co.,Ltd
 2493ca	1	17817	Voxtronic Austria
@@ -24458,7 +24461,7 @@
 34ab95	1	18655	Espressif Inc.
 34ac11	1	19061	China Mobile Group Device Co.,Ltd.
 34ac2f	1	20658	zte corporation
-34ad61	1	19019	CELESTICA INC.
+34ad61	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 34ade4	1	16756	Shanghai Chint Power Systems Co., Ltd.
 34af2c	1	16756	Nintendo Co., Ltd.
 34afa3	1	19355	Recogni Inc
@@ -26003,6 +26006,7 @@
 40516c	1	16756	Grandex International Corporation
 40520d	1	16756	Pico Technology
 40538c	1	20676	LG Electronics
+4053b3	1	20743	SUNITEC TECHNOLOGY CO.,LIMITED
 405493	1	20334	zte corporation
 4054e4	1	16756	Wearsafe Labs Inc
 405539	1	16756	Cisco Systems, Inc
@@ -27389,6 +27393,7 @@
 481249	1	16756	Luxcom Technologies Inc.
 481258	1	18640	HUAWEI TECHNOLOGIES CO.,LTD
 48128f	1	18830	HUAWEI TECHNOLOGIES CO.,LTD
+481318	1	20743	zte corporation
 48137e	1	16756	Samsung Electronics Co.,Ltd
 481389	1	20553	Mellanox Technologies, Inc.
 4813f3	1	16897	BBK EDUCATIONAL ELECTRONICS CORP.,LTD.
@@ -30421,8 +30426,11 @@
 5ca86a	1	16902	HUAWEI TECHNOLOGIES CO.,LTD
 5ca931	1	20564	Ubee Interactive Co., Limited
 5ca933	1	16979	Luma Home
-5caaa2	1	20636	CELESTICA INC.
+5caaa2	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 5caafd	1	20138	Sonos, Inc.
+5cab22	1	20743	IEEE Registration Authority
+5cab223	2	20743	Xiamen Joint Tech. CO.,Ltd.
+5cab226	2	20743	Shanghai Jiweijiu Intelligent Technology Co., Ltd.
 5cac3d	1	19172	Samsung Electronics Co.,Ltd
 5cac4c	1	16963	Hon Hai Precision Ind. Co.,Ltd.
 5cad76	1	17398	Shenzhen TCL New Technology Co., Ltd
@@ -31591,7 +31599,7 @@
 64f2fb	1	20329	Hangzhou Ezviz Software Co.,Ltd.
 64f50e	1	16756	Kinion Technology Company Limited
 64f54e	1	18459	EM Microelectronic
-64f64d	1	20402	CELESTICA INC.
+64f64d	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 64f69d	1	16756	Cisco Systems, Inc
 64f6bb	1	18254	Fibocom Wireless Inc.
 64f6f7	1	18219	Anhui Dynamic Power Co., Ltd.
@@ -38778,6 +38786,7 @@
 7c852f	1	20571	Huawei Device Co., Ltd.
 7c8530	1	18709	Nokia
 7c8657	1	20705	GTWAVE
+7c86f3	1	20743	zte corporation
 7c8767	1	20441	Cisco Systems, Inc
 7c87ce	1	20609	Espressif Inc.
 7c8899	1	19649	FN-LINK TECHNOLOGY Ltd.
@@ -40282,7 +40291,7 @@
 8857ee	1	16756	BUFFALO.INC
 8858be	1	19327	kuosheng.com
 885a06	1	17851	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-885a23	1	20187	CELESTICA INC.
+885a23	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 885a85	1	20350	WNC Corporation
 885a92	1	16756	Cisco Systems, Inc
 885bdd	1	20630	Extreme Networks, Inc.
@@ -42315,6 +42324,7 @@
 8c1f6485c	4	19678	Zing 5g Communications Canada Inc.
 8c1f6485e	4	19860	Apen Group S.p.A.  (VAT IT08767740155)
 8c1f6485f	4	20243	NEC Asia Pacific Pte Ltd
+8c1f64860	4	20743	Gogo BA
 8c1f64861	4	20431	AvioNova (Chengdu) Technology Company Limited
 8c1f64863	4	19485	EngiNe srl
 8c1f64864	4	19942	IMI Thomson Valves
@@ -44984,7 +44994,7 @@
 946372	1	17470	vivo Mobile Communication Co., Ltd.
 9463d1	1	16756	Samsung Electronics Co.,Ltd
 946424	1	19808	Hewlett Packard Enterprise
-946442	1	20571	CELESTICA INC.
+946442	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 94652d	1	17086	OnePlus Technology (Shenzhen) Co., Ltd
 94659c	1	16756	Intel Corporate
 9466e7	1	16825	WOM Engineering
@@ -45657,6 +45667,7 @@
 989449	1	16756	Skyworth Wireless Technology Ltd.
 9897cc	1	20621	TP-LINK TECHNOLOGIES CO.,LTD.
 9897d1	1	16756	MitraStar Technology Corp.
+989891	1	20743	zte corporation
 9898fb	1	19961	Google, Inc.
 989ab9	1	18530	zte corporation
 989bcb	1	17881	AVM Audiovisuelles Marketing und Computersysteme GmbH
@@ -49404,7 +49415,7 @@ b4d64e	1	17328	Caldero Limited
 b4d7db	1	19552	New H3C Technologies Co., Ltd
 b4d8a9	1	16756	BetterBots
 b4d8de	1	16756	iota Computing, Inc.
-b4db91	1	19180	CELESTICA INC.
+b4db91	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 b4dc09	1	17980	Guangzhou Dawei Communication Co.,Ltd
 b4dd15	1	16756	ControlThings Oy Ab
 b4ddd0	1	20434	AUMOVIO Hungary Kft.
@@ -52747,6 +52758,7 @@ ccf722a	2	20740	WIWORLD CO.,LTD
 ccf722b	2	20739	SEP
 ccf722c	2	20734	Walnut Medical Private Limited
 ccf722d	2	20739	KONEC SOLUTIONS PTY LTD
+ccf722e	2	20743	ASML US, LP
 ccf735	1	17824	Amazon Technologies Inc.
 ccf826	1	19297	Samsung Electronics Co.,Ltd
 ccf841	1	16756	Lumewave
@@ -54055,7 +54067,7 @@ d847bb	1	18591	Huawei Device Co., Ltd.
 d848ee	1	16756	Hangzhou Xueji Technology Co., Ltd.
 d8490b	1	16756	HUAWEI TECHNOLOGIES CO.,LTD
 d8492f	1	16756	CANON INC.
-d849bf	1	20040	CELESTICA INC.
+d849bf	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 d84a2b	1	19210	zte corporation
 d84a83	1	20193	vivo Mobile Communication Co., Ltd.
 d84a87	1	16756	OI ELECTRIC CO.,LTD
@@ -54798,7 +54810,7 @@ dcd916	1	16841	HUAWEI TECHNOLOGIES CO.,LTD
 dcd9a8	1	20658	Guang zhou Xradio Technology Co., Ltd
 dcd9ae	1	18382	Nokia Shanghai Bell Co., Ltd.
 dcda0c	1	20609	Espressif Inc.
-dcda4d	1	19705	CELESTICA INC.
+dcda4d	1	20743	Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 dcda4f	1	16756	GETCK TECHNOLOGY,  INC
 dcda80	1	17754	New H3C Technologies Co., Ltd
 dcdb27	1	19124	Huawei Device Co., Ltd.
@@ -56491,6 +56503,7 @@ ec4c8c	1	19909	Intel Corporate
 ec4d3e	1	18461	Beijing Xiaomi Mobile Software Co., Ltd
 ec4d47	1	16756	HUAWEI TECHNOLOGIES CO.,LTD
 ec4f82	1	18321	Calix Inc.
+ec502a	1	20743	Funshion Online Technologies Co.,Ltd
 ec50a6	1	20578	Sagemcom Broadband SAS
 ec50aa	1	19808	Hewlett Packard Enterprise
 ec51bc	1	17348	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD

@@ -19836,6 +19836,7 @@
 14147d	1	19844	Apple, Inc.
 1414e6	1	16861	Ningbo Sanhe Digital Co.,Ltd
 14157c	1	16756	TOKYO COSMOS ELECTRIC CO.,LTD.
+14168c	1	20747	IoTronix Technologies Sdn. Bhd.
 14169d	1	18234	Cisco Systems, Inc
 14169e	1	17573	Wingtech Group (HongKong）Limited
 14172a	1	18883	Fiberhome Telecommunication Technologies Co.,LTD
@@ -24545,6 +24546,7 @@
 34c8d6c	2	19741	Huizhou KDT Intelligent Display Technology Co. Ltd
 34c8d6d	2	19738	eight
 34c8d6e	2	20336	Shanghai Kanghai Information System CO.,LTD.
+34c934	1	20747	Espressif Inc.
 34c93d	1	18558	Intel Corporate
 34c99d	1	16756	EIDOLON COMMUNICATIONS TECHNOLOGY CO. LTD.
 34c9f0	1	16756	LM Technologies Ltd
@@ -29903,6 +29905,7 @@
 58b0d4	1	16756	ZuniData Systems Inc.
 58b0fe	1	18557	Team EPS GmbH
 58b10f	1	17577	Samsung Electronics Co.,Ltd
+58b145	1	20747	Espressif Systems (Singapore) Pte. Ltd
 58b18f	1	19978	Huawei Device Co., Ltd.
 58b38f	1	19103	New H3C Technologies Co., Ltd
 58b3fc	1	17511	SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
@@ -30435,9 +30438,12 @@
 5cab22	1	20743	IEEE Registration Authority
 5cab222	2	20746	Santiam Labs
 5cab223	2	20743	Xiamen Joint Tech. CO.,Ltd.
+5cab224	2	20747	Comet Technologies Denmark A/S
 5cab226	2	20743	Shanghai Jiweijiu Intelligent Technology Co., Ltd.
 5cab227	2	20746	Chubb France
+5cab228	2	20747	FEEL Group LLC
 5cab229	2	20745	KIWEE BROADBAND
+5cab22d	2	20747	Stadium Grow Lighting B.V
 5cac3d	1	19172	Samsung Electronics Co.,Ltd
 5cac4c	1	16963	Hon Hai Precision Ind. Co.,Ltd.
 5cad76	1	17398	Shenzhen TCL New Technology Co., Ltd
@@ -32253,6 +32259,7 @@
 6c2f2c	1	16756	Samsung Electronics Co.,Ltd
 6c2f80	1	19649	Intel Corporate
 6c2f8a	1	18326	Samsung Electronics Co.,Ltd
+6c2fa0	1	20747	Espressif Inc.
 6c302a	1	19102	Texas Instruments
 6c310e	1	18145	Cisco Systems, Inc
 6c32de	1	16756	Indieon Technologies Pvt. Ltd.
@@ -42821,6 +42828,7 @@
 8c1f64b0e	4	20459	Watthour Engineering Co., Inc.
 8c1f64b0f	4	19187	HKC Security Ltd.
 8c1f64b10	4	18926	MTU Aero Engines AG
+8c1f64b11	4	20747	RFTEQ PTY LTD
 8c1f64b12	4	20700	Hongtai Intelligent Technology
 8c1f64b13	4	19124	Abode Systems Inc
 8c1f64b14	4	19278	Murata Manufacturing CO., Ltd.
@@ -43078,6 +43086,7 @@
 8c1f64c5b	4	20648	TCL OPERATIONS POLSKA SP. Z O.O.
 8c1f64c5d	4	19325	Alfa Proxima d.o.o.
 8c1f64c5e	4	19846	YUYAMA MFG Co.,Ltd
+8c1f64c5f	4	20747	Unitron Systems b.v.
 8c1f64c60	4	20032	Intelligent Security Systems (ISS)
 8c1f64c61	4	19251	Beijing Ceresdate Technology Co.,LTD
 8c1f64c62	4	19741	GMI Ltd
@@ -45271,6 +45280,7 @@
 94e98c	1	16963	Nokia
 94e9ee	1	18271	Huawei Device Co., Ltd.
 94ea32	1	18653	Apple, Inc.
+94ea36	1	20747	Telink Micro LLC
 94eae7	1	20442	Lynq Technologies
 94eaea	1	17734	TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
 94eb2c	1	16756	Google, Inc.
@@ -48073,6 +48083,7 @@ ac2ba2	1	20617	The Chamberlain Group, Inc
 ac2da3	1	16756	TXTR GmbH
 ac2da9	1	17866	TECNO MOBILE LIMITED
 ac2fa8	1	16756	Humannix Co.,Ltd.
+ac2fe5	1	20747	CANON INC.
 ac3019	1	20544	Shenzhen Hailingwei Electronics Co., Ltd.
 ac3184	1	19124	Huawei Device Co., Ltd.
 ac319d	1	16756	Shenzhen TG-NET Botone Technology Co.,Ltd.
@@ -49518,6 +49529,7 @@ b4fbf9	1	17470	HUAWEI TECHNOLOGIES CO.,LTD
 b4fc75	1	16756	SEMA Electronics(HK) CO.,LTD
 b4fc7d	1	20014	AVM Audiovisuelles Marketing und Computersysteme GmbH
 b4fe8c	1	16756	Centro Sicurezza Italia SpA
+b4feb5	1	20747	Espressif Systems (Singapore) Pte. Ltd
 b4ff98	1	18509	HUAWEI TECHNOLOGIES CO.,LTD
 b80018	1	16935	Htel
 b8005b	1	20665	Huawei Device Co., Ltd.
@@ -52722,6 +52734,7 @@ cce236	1	18767	Hangzhou Yaguan Technology Co. LTD
 cce4d1	1	20312	Arista Networks
 cce536	1	19691	ittim
 cce686	1	19172	Samsung Electronics Co.,Ltd
+cce732	1	20747	Espressif Inc.
 cce798	1	16756	My Social Stuff
 cce7de	1	20540	IEEE Registration Authority
 cce7de0	2	20539	Shenzhen Jooan Technology  Co., Ltd
@@ -58022,6 +58035,7 @@ f809a4	1	19562	Henan Thinker Rail Transportation Research Inc.
 f80bbe	1	20012	Commscope
 f80bcb	1	17173	Cisco Systems, Inc
 f80bd0	1	16756	Datang Telecom communication terminal (Tianjin) Co., Ltd.
+f80c4e	1	20747	Espressif Inc.
 f80c58	1	18758	Taicang T&W Electronics
 f80c9a	1	20461	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 f80cf3	1	17389	LG Electronics (Mobile Communications)

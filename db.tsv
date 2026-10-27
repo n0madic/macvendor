@@ -22804,6 +22804,7 @@
 28bc05	1	19096	BLU Products Inc
 28bc18	1	16756	SourcingOverseas Co. Ltd
 28bc56	1	16756	EMAC, Inc.
+28bc82	1	20752	AMiT Automation
 28bd89	1	18087	Google, Inc.
 28be03	1	16918	TCT mobile ltd
 28be43	1	19020	vivo Mobile Communication Co., Ltd.
@@ -23025,6 +23026,7 @@
 2c0b97	1	19803	Xiaomi Communications Co Ltd
 2c0bab	1	18923	HUAWEI TECHNOLOGIES CO.,LTD
 2c0be9	1	17066	Cisco Systems, Inc
+2c0c88	1	20753	Silicon Laboratories
 2c0d27	1	19926	Huawei Device Co., Ltd.
 2c0da7	1	18830	Intel Corporate
 2c0dcf	1	20279	Xiaomi Communications Co Ltd
@@ -25907,6 +25909,7 @@
 4022d8	1	20609	Espressif Inc.
 4022ed	1	16756	Digital Projection Ltd
 402343	1	17919	CHONGQING FUGUI ELECTRONICS CO.,LTD.
+402364	1	20752	Serage
 4024b2	1	18627	Sichuan AI-Link Technology Co., Ltd.
 4024d2	1	20224	Huawei Device Co., Ltd.
 402508	1	20125	Highway 9 Networks, Inc.
@@ -28042,6 +28045,7 @@
 4c5077	1	18139	Huawei Device Co., Ltd.
 4c50dd	1	19620	Hui Zhou Gaoshengda Technology Co.,LTD
 4c50f1	1	18772	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+4c5149	1	20752	GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 4c5262	1	17398	Fujitsu Technology Solutions GmbH
 4c52ec	1	18531	SOLARWATT GmbH
 4c5369	1	19054	YanFeng Visteon(ChongQing) Automotive Electronic Co.,Ltd
@@ -30451,9 +30455,11 @@
 5caafd	1	20138	Sonos, Inc.
 5cab22	1	20743	IEEE Registration Authority
 5cab220	2	20750	InfraShield Inc.
+5cab221	2	20752	MDA SatConn UK
 5cab222	2	20746	Santiam Labs
 5cab223	2	20743	Xiamen Joint Tech. CO.,Ltd.
 5cab224	2	20747	Comet Technologies Denmark A/S
+5cab225	2	20752	Cyngrox Private Limited
 5cab226	2	20743	Shanghai Jiweijiu Intelligent Technology Co., Ltd.
 5cab227	2	20746	Chubb France
 5cab228	2	20747	FEEL Group LLC
@@ -30462,6 +30468,7 @@
 5cab22b	2	20750	Digicare Biomedical Technology, Inc.
 5cab22c	2	20749	Link-Card Tech Co.Ltd.
 5cab22d	2	20747	Stadium Grow Lighting B.V
+5cab22e	2	20752	Private
 5cac3d	1	19172	Samsung Electronics Co.,Ltd
 5cac4c	1	16963	Hon Hai Precision Ind. Co.,Ltd.
 5cad76	1	17398	Shenzhen TCL New Technology Co., Ltd
@@ -31803,6 +31810,7 @@
 685210	1	19566	MCS Logic
 6852d6	1	18436	UGame Technology Co.,Ltd
 68536c	1	16802	SPnS Co.,Ltd
+685370	1	20753	Chipsea Technologies (Shenzhen) Corp.
 685377	1	19808	Bouffalo Lab (Nanjing) Co., Ltd.
 685388	1	16918	P&S Technology
 68539d	1	19108	EM Microelectronic
@@ -42354,6 +42362,7 @@
 8c1f6484c	4	19060	AvMap srlu
 8c1f6484d	4	19563	DAVE SRL
 8c1f6484e	4	18928	West Pharmaceutical Services, Inc.
+8c1f6484f	4	20752	Rouchon Industries Inc.
 8c1f64850	4	20693	Tokyo Denki Gijutsu Kogyo
 8c1f64852	4	19283	ABB
 8c1f64854	4	19520	Kampr Systems
@@ -42643,6 +42652,7 @@
 8c1f649e8	4	19264	GHM Messtechnik GmbH
 8c1f649ea	4	20045	MSolutions
 8c1f649ec	4	19459	Specialized Communications Corp.
+8c1f649ed	4	20752	Sotech Development Pvt. Ltd.
 8c1f649ee	4	20584	Möbus Engineering GmbH
 8c1f649f0	4	18865	ePlant, Inc.
 8c1f649f1	4	19786	Skymira
@@ -42817,6 +42827,7 @@
 8c1f64ada	4	20558	Ability Intelligent Corp.
 8c1f64adb	4	19788	Hebei Weiji Electric Co.,Ltd
 8c1f64adc	4	20165	Motor Protection Electronics
+8c1f64add	4	20752	Intermobility Co., Ltd.
 8c1f64ae0	4	20651	ASTER PRO-AUDIO INC.
 8c1f64ae1	4	18775	YUYAMA MFG Co.,Ltd
 8c1f64ae2	4	20104	Jiangsu Yi Rong Mstar Technology Ltd.
@@ -45078,6 +45089,7 @@
 9482b2	1	20657	GL Intelligence
 9483c4	1	18086	GL Technologies (Hong Kong) Limited
 94857a	1	16756	Evantage Industries Corp
+948580	1	20753	Amazon Technologies Inc.
 9486cd	1	16756	SEOUL ELECTRONICS&TELECOM
 9486d4	1	16756	Surveillance Pro Corporation
 94877c	1	20012	Commscope
@@ -49993,6 +50005,8 @@ b8f12a	1	18015	Apple, Inc.
 b8f255	1	18902	Universal Electronics, Inc.
 b8f317	1	16756	iSun Smasher Communications Private Limited
 b8f44f	1	19531	u-blox AG
+b8f453	1	20752	IEEE Registration Authority
+b8f453a	2	20752	Skeleton Technologies OÜ
 b8f4a4	1	20418	Google, Inc.
 b8f4d0	1	16756	Herrmann Ultraschalltechnik GmbH & Co. Kg
 b8f5e7	1	16756	WayTools, LLC
@@ -50475,6 +50489,7 @@ bcd767	1	20382	BAE Systems
 bcd7a5	1	19808	Hewlett Packard Enterprise
 bcd7ce	1	18585	China Mobile (Hangzhou) Information Technology Co., Ltd.
 bcd7d4	1	20110	Roku, Inc
+bcd810	1	20753	Amazon Technologies Inc.
 bcd849	1	20727	TP-Link Systems Inc.
 bcd940	1	16756	ASR Co,.Ltd.
 bcd9fb	1	20397	China Mobile Group Device Co.,Ltd.
@@ -50780,6 +50795,7 @@ c07bbc	1	16756	Cisco Systems, Inc
 c07c90	1	19482	Shenzhen YOUHUA Technology Co., Ltd
 c07cd1	1	16825	PEGATRON CORPORATION
 c07e40	1	16756	SHENZHEN XDK COMMUNICATION EQUIPMENT CO.,LTD
+c08009	1	20752	Vantiva USA LLC
 c08135	1	17573	Ningbo Forfan technology Co., LTD
 c08170	1	16756	Effigis GeoSolutions
 c0830a	1	16756	2Wire Inc
@@ -56192,6 +56208,7 @@ e89a8f	1	18409	Quanta Computer Inc.
 e89aff	1	17528	Fujian LANDI Commercial Equipment Co.,Ltd
 e89c25	1	19497	ASUSTek COMPUTER INC.
 e89d87	1	16756	Toshiba
+e89dea	1	20753	Silicon Laboratories
 e89e0c	1	18634	MAX8USA DISTRIBUTORS INC.
 e89e13	1	19524	CRESYN
 e89e49	1	20250	Mellanox Technologies, Inc.

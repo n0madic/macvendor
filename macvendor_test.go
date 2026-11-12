@@ -86,3 +86,24 @@ func BenchmarkLookup(b *testing.B) {
 		}
 	}
 }
+
+func TestIsValidPrefix(t *testing.T) {
+	t.Parallel()
+	tests := map[string]bool{
+		"00:00:0C":            true,
+		"00:50:C2:14:F":       true,
+		"00:1B:C5:00:1":       true,
+		"00:1B:C5:00:10":      false,
+		"00:50:C2:14:F0:/3:6": false,
+		"00:1B:C5:00:/3:6":    false,
+		"D4:2":                false,
+		"":                    false,
+		"00:0:0C":             false,
+		"zz:00:0C":            false,
+	}
+	for prefix, want := range tests {
+		if got := isValidPrefix(prefix); got != want {
+			t.Errorf("isValidPrefix(%q) = %v, want %v", prefix, got, want)
+		}
+	}
+}

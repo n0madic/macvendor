@@ -15,6 +15,11 @@ import (
 	"time"
 )
 
+const (
+	minPrefixBytes = 3
+	maxPrefixBytes = 5
+)
+
 // SourceURL is the default location of the source vendor database
 const SourceURL = "https://maclookup.app/downloads/json-database/get-db"
 
@@ -63,6 +68,10 @@ func decodeJsonLines(r io.Reader) (map[string]*VendorItem, error) {
 	result := make(map[string]*VendorItem, len(vendors))
 	for i := range vendors {
 		vendor := &vendors[i]
+		if !isValidPrefix(vendor.OUI) {
+			// The source contains placeholder entries such as "00:50:C2:14:F0:/3:6"
+			continue
+		}
 		vendor.CompanyName = strings.ReplaceAll(vendor.CompanyName, "`", "'")
 
 		flags := ComputeFlags(vendor.AssignmentBlockSize, vendor.IsPrivate)
@@ -81,6 +90,28 @@ func decodeJsonLines(r io.Reader) (map[string]*VendorItem, error) {
 		}
 	}
 	return result, nil
+}
+
+// isValidPrefix reports whether the prefix is a colon-separated hex string of 3 to 5 bytes,
+// where the last byte of a 4- or 5-byte prefix is a single nibble
+func isValidPrefix(prefix string) bool {
+	parts := strings.Split(prefix, ":")
+	if len(parts) < minPrefixBytes || len(parts) > maxPrefixBytes {
+		return false
+	}
+	for i, part := range parts {
+		wantLen := 2
+		if i == len(parts)-1 && len(parts) > minPrefixBytes {
+			wantLen = 1
+		}
+		if len(part) != wantLen {
+			return false
+		}
+		if _, err := strconv.ParseUint(part, 16, 8); err != nil {
+			return false
+		}
+	}
+	return true
 }
 
 // LoadSourceDB loads the vendor database from a file or URL

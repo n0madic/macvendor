@@ -2193,7 +2193,7 @@
 0008ab	1	16756	EnerLinx.com, Inc.
 0008ac	1	18753	BST GmbH
 0008ad	1	16756	Toyo-Linx Co., Ltd.
-0008ae	1	16756	PacketFront Network Products AB
+0008ae	1	20776	Waystream AB
 0008af	1	16756	Novatec Corporation
 0008b0	1	18578	HUBER+SUHNER BKtel GmbH
 0008b1	1	16756	ProQuent Systems
@@ -19002,6 +19002,7 @@
 0c8408	1	18802	HUAWEI TECHNOLOGIES CO.,LTD
 0c8411	1	16756	A.O. Smith Water Products
 0c8447	1	18152	Fiberhome Telecommunication Technologies Co.,LTD
+0c8473	1	20775	Bouffalo Lab (Nanjing) Co., Ltd.
 0c8484	1	16756	Zenovia Electronics Inc.
 0c84dc	1	16963	Hon Hai Precision Ind. Co.,Ltd.
 0c8509	1	20481	SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
@@ -20208,6 +20209,7 @@
 14bc68	1	20285	Cisco Systems, Inc
 14bd61	1	17173	Apple, Inc.
 14befc	1	19844	Nanjing Jiahao Technology Co., Ltd.
+14bf9a	1	20776	HavocAI, Inc.
 14c03e	1	20012	Commscope
 14c050	1	19490	GUANGDONG GENIUS TECHNOLOGY CO., LTD.
 14c089	1	16756	DUNE HD LTD
@@ -27629,6 +27631,7 @@
 485fdf	1	19563	zte corporation
 48605f	1	17559	LG Electronics (Mobile Communications)
 4860bc	1	17450	Apple, Inc.
+4860cb	1	20775	Nanjing RISC-V Institute Co., Ltd.
 4861a3	1	16756	Concern Axion JSC
 4861ee	1	18881	Samsung Electronics Co.,Ltd
 486264	1	19984	Arlo Technology
@@ -27956,6 +27959,7 @@
 4a07d6	0	20717	IEEE 802.1 Working Group
 4a1540	0	18970	sas de la Halle aux Fours
 4a191b	0	16856	ZigBee Alliance
+4a5266	0	20776	Last Lock Inc
 4a5909	0	20174	MIWA LOCK CO.,LTD.
 4a5a6f	0	17627	Applied Materials
 4a5aa9	0	19220	GoCodeIT Inc
@@ -30401,10 +30405,13 @@
 5c6b4f	1	17022	Hello Inc.
 5c6bd7	1	18324	Foshan VIOMI Electric Appliance Technology Co. Ltd.
 5c6cbb	1	20769	IEEE Registration Authority
+5c6cbb3	2	20776	DATA KNOX DMS PRIVATE LIMITED
 5c6cbb5	2	20770	LVT
 5c6cbb8	2	20770	Private
 5c6cbb9	2	20774	Certaintek Co.,Ltd.
 5c6cbba	2	20770	Entrust Security UK Limited
+5c6cbbb	2	20776	BackburnerLabs
+5c6cbbc	2	20776	Swegon ILTO Oy
 5c6cbbd	2	20769	Vasco Electronics S.A.
 5c6d20	1	16963	Hon Hai Precision Ind. Co.,Ltd.
 5c6f4f	1	16756	S.A. SISTEL
@@ -38651,6 +38658,7 @@
 7a4d2f	0	18800	Open Compute Project
 7a84f0	0	17952	McDowell Signal Processing, LLC (dba McDSP)
 7a8dd1	0	19740	TePS'EG
+7a8f27	0	20776	Mirai Speaker Inc.
 7aab77	0	16856	Orange
 7ab230	0	20669	European Telecommunications Standards Institute
 7af955	0	19620	Relay, Inc.
@@ -41168,6 +41176,7 @@
 8c1f6412e	4	19312	inomatic GmbH
 8c1f6412f	4	20558	MB connect line GmbH
 8c1f64130	4	20690	Vigor Electric Corp.
+8c1f64132	4	20775	Shenzhen Enatel Electronics Co,ltd.
 8c1f64133	4	19185	Vtron Pty Ltd
 8c1f64134	4	20461	LyconSys GmbH & Co.KG
 8c1f64135	4	18734	Yuval Fichman
@@ -41476,6 +41485,7 @@
 8c1f642e4	4	20243	Vision Systems Safety Tech
 8c1f642e5	4	19668	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8c1f642e8	4	18790	Sonora Network Solutions
+8c1f642e9	4	20776	DataCatcher
 8c1f642ec	4	20061	HD Vision Systems GmbH
 8c1f642ee	4	20048	Qualitrol LLC
 8c1f642ef	4	18769	Invisense AB
@@ -41862,6 +41872,7 @@
 8c1f644eb	4	20187	flsystem
 8c1f644ec	4	18879	XOR UK Corporation Limited
 8c1f644ed	4	20168	VENTIONEX INNOVATIONS SDN BHD
+8c1f644ef	4	20776	Crane Nuclear
 8c1f644f0	4	18949	Tieline Research Pty Ltd
 8c1f644f1	4	19837	Abbott Diagnostics Technologies AS
 8c1f644f2	4	20312	Automation Displays Inc.
@@ -42001,6 +42012,7 @@
 8c1f645a8	4	20633	VERSABYTE DATA SYSTEMS PVT LTD
 8c1f645a9	4	19649	Aktiebolag Solask Energi
 8c1f645aa	4	19809	Landis+Gyr Equipamentos de Medição Ltda
+8c1f645ab	4	20775	G.O. Engineering GmbH
 8c1f645ac	4	19087	YUYAMA MFG Co.,Ltd
 8c1f645ad	4	20564	TAKAHATA PRECISION Co., LTD.
 8c1f645ae	4	18968	Suzhou Motorcomm Electronic Technology Co., Ltd
@@ -42811,6 +42823,7 @@
 8c1f649f0	4	18865	ePlant, Inc.
 8c1f649f1	4	19786	Skymira
 8c1f649f2	4	18866	MB connect line GmbH Fernwartungssysteme
+8c1f649f3	4	20776	Vardaan Electronics Industries Pvt. Ltd.
 8c1f649f4	4	19116	Grossenbacher Systeme AG
 8c1f649f5	4	19424	YUYAMA MFG Co.,Ltd
 8c1f649f6	4	19397	Vision Systems Safety Tech
@@ -43724,6 +43737,7 @@
 8c1f64ec2	4	20326	HARBIN DIGITAL ECONOMY DEVELOPMENT CO.,LTD
 8c1f64ec3	4	20581	Scenario Automation
 8c1f64ec5	4	20571	Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.
+8c1f64ec7	4	20776	Linglume (Shanghai) Technology Co., Ltd
 8c1f64ecc	4	19424	Baldwin Jimek AB
 8c1f64ecd	4	20670	Beijing BITMC Technology co.Ltd
 8c1f64ecf	4	19318	Monnit Corporation
@@ -43762,6 +43776,7 @@
 8c1f64efc	4	20686	LonTen Technology（BeiJing）Co.,LTD.
 8c1f64efd	4	19851	Novatera(Shenzhen)Technologies Co.,Ltd.
 8c1f64eff	4	20531	Automata GmbH & Co. KG
+8c1f64f00	4	20775	GVision Italia S.r.l.
 8c1f64f01	4	20675	OmniBuds Ltd
 8c1f64f03	4	20224	Faust ApS
 8c1f64f04	4	18879	IoTSecure, LLC
@@ -47706,6 +47721,7 @@ a4dd58	1	19054	HUAWEI TECHNOLOGIES CO.,LTD
 a4de26	1	18867	Sumitomo Electric Industries, Ltd
 a4de50	1	16756	Total Walther GmbH
 a4dec9	1	16756	QLove Mobile Intelligence Information Technology (W.H.) Co. Ltd.
+a4e041	1	20776	Ruckus Wireless
 a4e0e6	1	16756	FILIZOLA S.A. PESAGEM E AUTOMACAO
 a4e11a	1	18793	Juniper Networks
 a4e287	1	19630	Xiaomi Communications Co Ltd
@@ -51438,6 +51454,7 @@ c4524f	1	19479	Apple, Inc.
 c45379	1	19262	Micronview Limited Liability Company
 c45444	1	18409	Quanta Computer Inc.
 c4550d	1	20713	HUAWEI TECHNOLOGIES CO.,LTD
+c45510	1	20776	FRITZ! Technology GmbH
 c455a6	1	16756	Cadac Holdings Ltd
 c455c2	1	16756	Bach-Simpson
 c45600	1	16756	Galleon Embedded Computing

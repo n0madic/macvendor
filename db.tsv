@@ -17424,6 +17424,7 @@
 00fc8b	1	17328	Amazon Technologies Inc.
 00fc8d	1	16756	Hitron Technologies. Inc
 00fcba	1	17573	Cisco Systems, Inc
+00fd05	1	20777	Silicon Laboratories
 00fd22	1	17881	Cisco Systems, Inc
 00fd45	1	19808	Hewlett Packard Enterprise
 00fd4c	1	16756	NEVATEC
@@ -19065,6 +19066,7 @@
 0c9838	1	17431	Xiaomi Communications Co Ltd
 0c9a3c	1	18695	Intel Corporate
 0c9a42	1	17684	FN-LINK TECHNOLOGY LIMITED
+0c9aac	1	20777	Cisco Meraki
 0c9ae6	1	20314	SZ DJI TECHNOLOGY CO.,LTD
 0c9b13	1	16756	Shanghai Magic Mobile Telecommunication Co.Ltd.
 0c9b78	1	20630	Extreme Networks, Inc.
@@ -23590,6 +23592,7 @@
 2ce64d	1	20570	GD Midea Air-Conditioning Equipment Co.,Ltd.
 2ce6cc	1	17254	Ruckus Wireless
 2ce7a7	1	20629	SJIT Co., Ltd.
+2ce847	1	20777	eero inc.
 2ce871	1	16756	Alert Metalguard ApS
 2cea7f	1	18265	Dell Inc.
 2ceada	1	19894	ICC Intelligent Platforms GmbH
@@ -30317,6 +30320,7 @@
 5c56a4	1	18591	Wanan Hongsheng Electronic Co.Ltd
 5c56ed	1	16756	3pleplay Electronics Private Limited
 5c571a	1	20012	Commscope
+5c579b	1	20777	Cisco Meraki
 5c579e	1	19674	Chiun Mai Communication System, Inc
 5c57c8	1	16756	Nokia Corporation
 5c5819	1	17415	Jingsheng Technology Co., Ltd.
@@ -30405,6 +30409,7 @@
 5c6b4f	1	17022	Hello Inc.
 5c6bd7	1	18324	Foshan VIOMI Electric Appliance Technology Co. Ltd.
 5c6cbb	1	20769	IEEE Registration Authority
+5c6cbb2	2	20777	Shenzhen Dangzhi Technology Co., Ltd.
 5c6cbb3	2	20776	DATA KNOX DMS PRIVATE LIMITED
 5c6cbb5	2	20770	LVT
 5c6cbb8	2	20770	Private
@@ -30644,6 +30649,7 @@
 5cdc49	1	20196	Samsung Electronics Co.,Ltd
 5cdc96	1	20521	Arcadyan Corporation
 5cdd70	1	16756	Hangzhou H3C Technologies Co., Limited
+5cddcb	1	20777	Silicon Laboratories
 5cde34	1	19674	SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 5cdf89	1	18821	Ruckus Wireless
 5cdfb8	1	18765	Shenzhen Unionmemory Information System Limited
@@ -32539,6 +32545,7 @@
 6c78c1	1	20090	Juniper Networks
 6c79b8	1	18699	Texas Instruments
 6c7a63	1	20343	Arista Networks
+6c7cfd	1	20777	eero inc.
 6c7db7	1	20070	Cisco Meraki
 6c7e67	1	19153	Apple, Inc.
 6c7f0c	1	19649	Cisco Meraki
@@ -32697,6 +32704,7 @@
 6cd1e5	1	18759	HUAWEI TECHNOLOGIES CO.,LTD
 6cd2ba	1	18121	zte corporation
 6cd3ee	1	18804	ZIMI CORPORATION
+6cd441	1	20777	Tech4home, Lda
 6cd552	1	20651	SHENZHEN BILIAN ELECTRONIC CO.，LTD
 6cd630	1	18597	Rootous System Co.,Ltd
 6cd63f	1	19656	HUAWEI TECHNOLOGIES CO.,LTD
@@ -41982,6 +41990,7 @@
 8c1f6457c	4	20553	EA Elektro-Automatik GmbH
 8c1f6457d	4	19492	ISDI Ltd
 8c1f6457e	4	20229	Guoqing (shangdong) Information Technology Co.,Ltd
+8c1f6457f	4	20776	BlueSpace TECHNOLOGY SA
 8c1f64580	4	19831	SAKURA SEIKI Co., Ltd.
 8c1f64581	4	18992	SpectraDynamics, Inc.
 8c1f64583	4	20251	3Egreen tech. Co. Ltd.
@@ -42578,6 +42587,7 @@
 8c1f64898	4	19492	Copper Connections Ltd
 8c1f64899	4	19496	American Edge IP
 8c1f6489a	4	20574	National Control Devices, LLC
+8c1f6489b	4	20777	Sensia Solutions,S.L.
 8c1f6489e	4	19005	Cinetix Srl
 8c1f6489f	4	20629	Potter Electric Signal Co. LLC
 8c1f648a0	4	19993	H&abyz
@@ -43043,6 +43053,7 @@
 8c1f64b19	4	19649	DITRON S.r.l.
 8c1f64b1a	4	20339	Panoramic Power
 8c1f64b1b	4	19885	Nov'in
+8c1f64b1c	4	20777	BG Systems, Inc.
 8c1f64b1d	4	20122	Tocho Marking Systems America, Inc
 8c1f64b1e	4	20389	Aidhom
 8c1f64b1f	4	20229	wincker international enterprise co., ltd
@@ -44874,6 +44885,7 @@
 90b8e0	1	18129	SHENZHEN YANRAY TECHNOLOGY CO.,LTD
 90b931	1	16756	Apple, Inc.
 90b942	1	20124	zte corporation
+90b970	1	20777	Shenzhen V-Link Technology CO., LTD.
 90b97d	1	16756	Johnson Outdoors Marine Electronics d/b/a Minnkota
 90b9f9	1	20445	Motorola Mobility LLC, a Lenovo Company
 90ba09	1	20563	HUAWEI TECHNOLOGIES CO.,LTD
@@ -46942,6 +46954,7 @@ a0722c	1	16996	HUMAX Co., Ltd.
 a072e4	1	17328	NJ SYSTEM CO.,LTD
 a07332	1	16756	Cashmaster International Limited
 a073fc	1	16756	Rancore Technologies Private Limited
+a07566	1	20777	Cirrus Logic International Semiconductor Ltd
 a07591	1	16756	Samsung Electronics Co.,Ltd
 a075ea	1	17559	BoxLock, Inc.
 a0764e	1	18466	Espressif Inc.
